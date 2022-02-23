@@ -8,7 +8,7 @@
         span 1 
       h1 Layout en blender
 
-    div.tema2-div1.px-5.pt-5.mb-2
+    div.tema1-div1.px-5.pt-5.mb-2
       p.mb-4 Para empezar a crear el layout de la escena (figura 1) es importante tener en cuenta varios aspectos a la hora de traer los elementos creados e integrarlos en el escenario, para su correcta utilización y que no se generen complicaciones a la hora de empezar a trabajar con estos.
       p.mb-5 Para integrar elementos se debe importarlos a un escenario nuevo, la manera de hacerlo es importando archivos fbx para elementos sin rig, y para elementos riggeados, lo ideal es utilizar la opción “append” que sería algo así como integración. A continuación, se ven cómo son los pasos para organizar la exportación e importación.      
       div.BorTit.mb-3         
@@ -18,7 +18,7 @@
         figcaption Nota. SENA (2021).
     
 
-    div.tema2-div2.pt-5
+    div.tema1-div2.pt-5
       #t_1_1.titulo-segundo.color-acento-contenido
         h2 1.1 Integrando personaje en el escenario
 
