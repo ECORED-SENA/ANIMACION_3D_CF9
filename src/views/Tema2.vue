@@ -915,6 +915,103 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/OHYSoettZ6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
+    #t2_5.titulo-segundo.color-acento-contenido
+      h2 2.5 Fundamentos básicos de física
+
+    p.mb-4 La física es fundamental en el desarrollo de cualquier animación debido a que la encontramos diariamente en el mundo real. Por eso entender cómo funcionan es fundamental para el proceso de realización de cualquier proyecto audiovisual. A continuación, se presentan las características de la física que deben ser tenidas en cuenta, para obtener buenos resultados en sus proyectos:
+    p.mb-5 Para lograr personajes que se asemejen al mundo real, es importante el uso de la física, a continuación veremos algunas de las características más importantes que se deben tener en cuenta, cuando se realizan proyectos audiovisuales:
+
+    .tema1-TabsA.mb-5    
+        TabsA.color-acento-botones
+          .tarjeta.p-4(titulo="Área y Volumen")
+            h4.mb-4 Área y Volumen 
+            p.mb-4 Es la medida en dos dimensiones, del espacio o superficie de un objeto delimitado por un contorno, comúnmente conocido como <b>perímetro</b>.  El volumen es la extensión o medida en tres dimensiones largo, ancho y alto del espacio que ocupa un objeto, el cual depende de su tamaño.
+            .row.justify-content-center
+              .col-lg-9
+                figure.mb-0
+                  img(src='@/assets/curso/tema2/img50.png', alt='Dead')
+          .tarjeta.p-4(titulo="Elasticidad y Rigidez ")
+            h4.mb-4 Elasticidad y Rigidez 
+            p.mb-4 La elasticidad es la capacidad que posee un objeto o material de sufrir deformaciones reversibles cuando se le aplica una fuerza externa, recuperando su estado original cuando dicha fuerza desaparece. Mientras que la rigidez es la capacidad que tiene un objeto o material de soportar o resistir a fuerzas externas sin sufrir grandes deformaciones.
+            p.mb-4 <b>En el siguiente video podrás encontrar un vídeo con más información al respecto:</b>
+
+            .row.justify-content-center
+              .col-lg-10
+                figure
+                  .video
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .tarjeta.p-4(titulo="Fluidos")
+            h4.mb-4 Fluidos
+            p.mb-4 Se refiere a toda sustancia que tiene la propiedad de deformarse continuamente (fluye), cediendo ante cualquier cantidad de fuerza, aplicada para cambiar su forma, careciendo de rigidez y elasticidad. Los fluidos más conocidos pueden encontrarse en estado líquido en el que las partículas que conforman la sustancia presentan cierto movimiento y volumen constante, pero sin una forma definida; y en estado gaseoso en el que las moléculas de la sustancia tienen poca fuerza de atracción entre sí, ocasionando que no tengan un volumen ni forma definida, expandiéndose libremente.
+            p.mb-4 <b>En los siguientes videos podrás encontrar podrás encontrar más información al respecto:</b>
+
+            .tema-1.mb-5(style="background-color: #FAF9F8")
+              TabsB.color-acento-botones
+                .py-4.py-md-5.px-4(titulo="Liquido" :icono="require('@/assets/curso/tema1/img04.svg')")          
+                  figure.mb-0
+                    .video
+                      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                .py-4.py-md-5.px-4(titulo="Lluvia" :icono="require('@/assets/curso/tema1/img04.svg')")
+                  figure.mb-0
+                    .video
+                      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+          .tarjeta.p-4(titulo="Fricción")
+            h4.mb-4 Fricción
+            p.mb-4 Es la fuerza de rozamiento con dirección contraria al movimiento, que se produce entre dos cuerpos o superficies que están en contacto, y que tiene la capacidad de modificar su estado de reposo o movimiento o de deformar un cuerpo. Por ejemplo, se produce fricción al frotar nuestras manos, al empujar un objeto pesado, al deslizarnos por un tobogán, al patinar, etc.
+            p.mb-4 En el siguiente video podrás encontrar podrás encontrar más información al respecto:
+            .row.justify-content-center
+              .col-lg-10
+                figure
+                  .video
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .tarjeta.p-4(titulo="Gravedad")
+            h4.mb-4 Gravedad
+            p.mb-4 Es la fuerza que ejerce la masa de un planeta sobre un cuerpo u objeto atrayéndolo hacia su centro y depende de su masa: a mayor masa, mayor será la fuerza ejercida sobre él. El efecto de esta interacción gravitatoria se conoce comúnmente como peso, el cual es responsable de la caída de los cuerpos, acelerando los que se mueven hacia abajo y frenando los que se mueven hacia arriba.
+            p.mb-4 <b>En el siguiente video encontrarás más información al respecto:</b>
+            .row.justify-content-center
+              .col-lg-10
+                figure
+                  .video
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .tarjeta.p-4(titulo="Maleabilidad y Ductilidad")
+            h4.mb-4 Maleabilidad y Ductilidad
+            p.mb-4 Son propiedades que le permiten a un material sufrir deformaciones plásticas cuando se les aplica una compresión sin llegar a romperse. Gracias a la maleabilidad pueden obtenerse laminas delgadas o gruesas dependiendo del material, mientras que la ductilidad permite obtener alambres o hilos.
+            p.mb-4 <b>Ingresando en el siguiente video encontrarás más información al respecto:</b>
+
+            .row.justify-content-center
+              .col-lg-10
+                figure
+                  .video
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .tarjeta.p-4(titulo="Movimiento y Reposo")
+            h4.mb-4 Movimiento y Reposo
+            p.mb-4 El movimiento se produce cuando un cuerpo u objeto cambia de posición o se desplaza en un intervalo de tiempo. Por el contrario, se dice que un objeto está en reposo cuando carece de movimiento alguno, y puede ser relativo, cuando el objeto estático está encima de un objeto en movimiento, (por ejemplo, un pasajero que se desplaza en un autobús); o absoluto cuando el objeto sin movimiento se encuentra en un espacio estático.
+            p.mb-4 <b>Primera Ley de Newton</b>         
+            figure.mb-0
+              img(src='@/assets/curso/tema2/img51.svg', alt='Dead')            
+          .tarjeta.p-4(titulo="Plasticidad")
+            h4.mb-4 Plasticidad
+            p.mb-4 Es la capacidad de ciertos materiales de deformarse permanente e irreversiblemente cuando es sometido a tensiones por encima de su límite de elasticidad. Esta característica es útil ya que permite modelar fácilmente un material para cambiar su forma.
+            p.mb-4 <b>A continuación, podrás ampliar este tema a través del siguiente video:</b>
+            .row.justify-content-center
+              .col-lg-10
+                figure
+                  .video
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .tarjeta.p-4(titulo="Viscosidad")
+            h4.mb-4 Viscosidad
+            p.mb-4 Es una propiedad que se refiere a la fricción interna, o resistencia a fluir y deformarse, que poseen algunos fluidos.
+            p.mb-4 <b>En el siguiente video podrás encontrar un vídeo con más información al respecto:</b>
+            
+            .row.justify-content-center
+              .col-lg-10
+                figure
+                  .video
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          
+    
+    Separador
 </template>
 
 <script>
