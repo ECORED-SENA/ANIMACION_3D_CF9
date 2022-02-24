@@ -822,7 +822,7 @@
     #t2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Animaciones básicas
     
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 27

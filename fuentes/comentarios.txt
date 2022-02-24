@@ -1,0 +1,2 @@
+Tema 4
+- El componente TAB del tema solo tiene diseñada la pestaña "Ciclo de correr". El contenido de las demás pestañas será extraido del documento tecnico siempre que su contenido sea solo texto y video, pero veo que hay enlaces a otros documentos que no se han indicado en el diseño y por tanto no serán incluidos en la maquetacion. Se recomienda revisar por parte del diseñador.

@@ -69,7 +69,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Historia de la animación',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -108,7 +108,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Ciclos de Animación',
         desarrolloContenidos: true,
         subMenu: [],
       },
