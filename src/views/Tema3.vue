@@ -7,13 +7,13 @@
         span 3
       h1 Ciclos de Animación
 
-    div.tema3-div1.p-4
+    div.tema3-div1.p-4.mb-5
       p.mb-5 En Blender, se verán los ciclos de animación de los personajes, tales como caminar, correr, saltar, entre otros; para ello se trabajará con la línea de tiempo y la composición mediante fotogramas clave. <b>En los siguientes videos se verá cómo hacerlo, de igual manera el documento enlazado que da el paso a paso para conseguir el resultado:</b>
 
-    .row.justify-content-center.mb-5
-      .col-lg-6
-        figure
-          img(src="@/assets/curso/tema3/img01.png", alt="historia imagén 1")
+      .row.justify-content-center
+        .col-lg-6
+          figure
+            img(src="@/assets/curso/tema3/img01.png", alt="historia imagén 1")
 
     .tema1-TabsA.mb-5    
       TabsA.color-acento-botones
