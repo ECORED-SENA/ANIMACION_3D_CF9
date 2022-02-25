@@ -63,16 +63,16 @@
       TabsB.color-acento-botones
         .py-4.py-md-5(titulo="Introducción a cámaras" :icono="require('@/assets/curso/tema1/img04.svg')")          
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            .video              
+              iframe(width="1280" height="722" src="https://www.youtube.com/embed/Y4830kx98RA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .py-4.py-md-5(titulo="Bloqueo de cámaras" :icono="require('@/assets/curso/tema1/img04.svg')")
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            .video              
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/kXdE9VYGbu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .py-4.py-md-5(titulo="Cámara a view" :icono="require('@/assets/curso/tema1/img04.svg')")
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            .video              
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/tH4kOCcDrSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-7
@@ -91,16 +91,16 @@
       TabsB.color-acento-botones
         .py-4.py-md-5(titulo="Movimientos de camara" :icono="require('@/assets/curso/tema1/img04.svg')")          
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            .video            
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/NkAtp1yoM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .py-4.py-md-5(titulo="Background images camera" :icono="require('@/assets/curso/tema1/img04.svg')")
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            .video            
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/bp0lP9UL4X4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .py-4.py-md-5(titulo="Perspectiva con shift" :icono="require('@/assets/curso/tema1/img04.svg')")
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            .video              
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/67_52wK9G5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.align-items-center.mb-5
       .col-7
@@ -128,8 +128,8 @@
         .col-1
 
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video           
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/67_52wK9G5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.align-items-center.mb-5
       .col-7
@@ -145,8 +145,8 @@
 
     p.mb-5 Los tipos de lente en blender son la manera en que los objetos 3D son representados en una imagen 2D, para ello se puede jugar con las características de sus propiedades. <b>A continuación, el video que se encuentra es bastante explicativo al respecto:</b>
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video        
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/gqDMp7ou2xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center.align-items-center.mb-5
       .col-7
         .tema-1-anexo1
@@ -162,8 +162,8 @@
     p.mb-4 Blender dispone de un addon, con el cual se puede generar cámaras con rigg, como si estuviesen montadas en maquinaria, como si fuera en un set de grabación, con este se pueden generar movimientos de cámara y planos de una manera cercana a la realidad. 
     p.mb-4 <b>Al igual que los anteriores procedimientos, a continuación, se podrá observar el video explicativo a este proceso:</b>
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/GcQeDWy-QE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
     .row.justify-content-center.align-items-center
       .col-7
         .tema-1-anexo1

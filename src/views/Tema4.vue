@@ -36,8 +36,8 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         figure.mb-0
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+          .video            
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/DyZvxdoLoZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
     .titulo-sexto.color-acento-contenido
         h5 Figura 3
@@ -173,8 +173,8 @@
       .row.align-items-center.justify-content-center.mb-3
         .col-lg-10
           figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+            .video              
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/yMR5RZCSa-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
       Separador
 </template>

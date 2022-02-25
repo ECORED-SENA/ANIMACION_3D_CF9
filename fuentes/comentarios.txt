@@ -1,2 +1,13 @@
 Tema 4
 - El componente TAB del tema solo tiene diseñada la pestaña "Ciclo de correr". El contenido de las demás pestañas será extraido del documento tecnico siempre que su contenido sea solo texto y video, pero veo que hay enlaces a otros documentos que no se han indicado en el diseño y por tanto no serán incluidos en la maquetacion. Se recomienda revisar por parte del diseñador.
+
+Comentarios
+
+- No se encuentran ninguno de los documentos anexos. No hay ninguno en la carpeta de fuentes.
+- No se encuentran los enlaces a los 3 primeros videos
+	"Integrando archivos blend en el escenario"
+	"Integrando archivos fbx en el escenario"
+	El siguiente video a los dos anteriores, el cual no tiene titulo
+- No se encuentra ningun video de la seccion 2.5 Fundamentos básicos de física
+- No se encuentra el video "Non Linear Animation"
+- No se encuentra el video "Animaciones no cíclicas"

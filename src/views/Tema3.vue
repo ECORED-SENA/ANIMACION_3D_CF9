@@ -24,8 +24,8 @@
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
-                .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+                .video                  
+                  iframe(width="1280" height="722" src="https://www.youtube.com/embed/9veMyaN0SYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
         .tarjeta.p-4(titulo="Ciclo de correr")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
@@ -34,8 +34,8 @@
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
-                .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+                .video                  
+                  iframe(width="1280" height="720" src="https://www.youtube.com/embed/MaAqgpIBOjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
         .tarjeta.p-4(titulo="Non Linear Animation")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
@@ -54,8 +54,8 @@
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
-                .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+                .video                
+                  iframe(width="1280" height="720" src="https://www.youtube.com/embed/be96F6qpQj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
         .tarjeta.p-4(titulo="Ciclo a través de un path")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
@@ -64,8 +64,8 @@
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
-                .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+                .video                  
+                  iframe(width="1280" height="720" src="https://www.youtube.com/embed/_LN1oVVsjp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
         .tarjeta.p-4(titulo="Animaciones no cíclicas")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
@@ -84,8 +84,8 @@
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
-                .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+                .video                  
+                  iframe(width="1280" height="720" src="https://www.youtube.com/embed/xELSwcEiqnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
           
 </template>
 

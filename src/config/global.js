@@ -189,140 +189,82 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+      referencia: 'Animation Arena. (2021). Acting and Animation.',
+      link: 'http://www.animationarena.com/acting-and-animation.html',
+    },
+    {
+      referencia: 'Blender. (2021). Camera View — Blender Manual.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://docs.blender.org/manual/es/2.93/editors/3dview/navigate/camera_view.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'FLOOBYNOOBY. (2021). James Baxter - Notes on Acting for Animation.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://floobynooby.blogspot.com/2012/04/james-baxter-notes-on-acting-for.html?m=1',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Addon',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Programa que se puede instalar en Blender para facilitar el desarrollo de algún proceso complejo en el software.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Emociones',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Reacciones psíquicas y físicas de los seres vivos, en las cuales reflejan comportamientos inherentes a su ser.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Extrovertido',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'La característica de una persona activa, simpática, que demuestra sus emociones.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Introvertido',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Característica de una persona que es tímida y le da pena entablar conversaciones con otras personas. ',
     },
     {
-      termino: 'Moda',
+      termino: 'Layout',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Etapa de la animación 3D en la cual se posicionan los elementos en el escenario y se posiciona la escena integrando todo lo que va en ella de acuerdo al storyboard.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Riggeado',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Son los objetos 3D o 2D que adquieren una estructura para que puedan ser animados gracias a ellos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Renderizar',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es el proceso en el que un elemento que se encuentra en el mundo 3D, sea procesado en una imagen o un video. para ser visualizado fuera del software.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Sincronización',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la coordinación de tienen mínimo dos elementos, estos deben coincidir en tiempo o espacio.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'ESCARDO | Club de Animación 3D. (2014). Tutorial de Animacion 3D: Brazos IK FK en Personajes / Rigs en Maya, Blender, 3DsMax, C4D.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=oEHBqiq97jA',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+        'ARTNATOMYA. (2020). Página de consulta y compra de elementos de diseño gráfico y animación.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link: 'http://www.artnatomia.net/uk/artnatomya.html',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+        'Osipa, J. (2010). Stop staring: facial modeling and animation done right.',
+      tipo: 'Libro - Biblioteca SENA',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000062162',
     },
   ],
   creditos: {
@@ -338,7 +280,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
