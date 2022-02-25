@@ -92,8 +92,8 @@
                   img(src="@/assets/curso/tema2/img09.jpg", alt="historia imagén 8")
             
               .col-lg-8
-                h3 El flipbook o flipper book
-                p.mb-0 Apareció el ‘flipbook’ y es recordado como el más simple y popular dispositivo. Es un bloc de dibujos encuadernados en un extremo como un libro. Al sostener el borde encuadernado y dar vuelta o ‘flipar’ el otro extremo del libro, se tiene como resultado animación, la ilusión de una acción continua. Esto es lo que exactamente hacen los niños en las esquinas de sus cuadernos o libros. Incluso, la técnica de ‘flipar’ los dibujos se usa hoy en día por el animador clásico con el fin de probar el movimiento (Williams, 2009).
+                h3 El <i>flipbook</i> o <i>flipper</i> <i>book</i>
+                p.mb-0 Apareció el ‘<i>flipbook</i>’ y es recordado como el más simple y popular dispositivo. Es un <i>bloc</i> de dibujos encuadernados en un extremo como un libro. Al sostener el borde encuadernado y dar vuelta o <i>‘flipar’</i> el otro extremo del libro, se tiene como resultado animación, la ilusión de una acción continua. Esto es lo que exactamente hacen los niños en las esquinas de sus cuadernos o libros. Incluso, la técnica de <i>‘flipar’</i> los dibujos se usa hoy en día por el animador clásico con el fin de probar el movimiento (Williams, 2009).
             
             .row(titulo="1872")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -124,7 +124,7 @@
                   img(src="@/assets/curso/tema2/img12.jpg", alt="historia imagén 11")
             
               .col-lg-8
-                p.mb-0 El caricaturista James Stuart Blackton entrevistó al inventor Thomas Edison quien había realizado experimentos con imágenes en movimiento. Blackton hizo dibujos rápidos o ‘sketches’ de Edison, el cual quedó muy impresionado por su rapidez y habilidad. Edison le pediría hacer unos dibujos en serie, para luego tomarles fotografías. Esta fue la primera combinación de dibujos y fotografía.
+                p.mb-0 El caricaturista James Stuart Blackton entrevistó al inventor Thomas Edison quien había realizado experimentos con imágenes en movimiento. Blackton hizo dibujos rápidos o <i>‘sketches’</i> de Edison, el cual quedó muy impresionado por su rapidez y habilidad. Edison le pediría hacer unos dibujos en serie, para luego tomarles fotografías. Esta fue la primera combinación de dibujos y fotografía.
             
             .row(titulo="1906")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -132,7 +132,7 @@
                   img(src="@/assets/curso/tema2/img13.jpg", alt="historia imagén 12")
             
               .col-lg-8
-                p.mb-4 Blackton y Edison hicieron pública la primera película animada Humorous Phases of Funny Faces, usando la técnica de #[em stop motion] para crear movimiento. (Williams, 2009).
+                p.mb-4 Blackton y Edison hicieron pública la primera película animada <i>Humorous Phases of Funny Faces</i>, usando la técnica de #[em stop motion] para crear movimiento. (Williams, 2009).
 
                 .row.justify-content-center.mb-4
                   .col-10
@@ -140,7 +140,7 @@
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
-                        p Video: Humorous Phases of Funny Faces.
+                        p Video: <i>Humorous Phases of Funny Faces</i>.
             
             .row(titulo="1908")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -172,7 +172,7 @@
                   img(src="@/assets/curso/tema2/img16.jpg", alt="historia imagén 17")
             
               .col-lg-8
-                p.mb-4 Winsor McCay, exitoso dibujante de tiras cómicas, basado en una de sus tiras más conocidas Little Nemo in Slumberland (El pequeño Nemo en el país de los sueños) hace animaciones para películas.
+                p.mb-4 Winsor McCay, exitoso dibujante de tiras cómicas, basado en una de sus tiras más conocidas <i>Little Nemo in Slumberland</i> (El pequeño Nemo en el país de los sueños) hace animaciones para películas.
 
                 .row.justify-content-center.mb-4
                   .col-10
@@ -180,7 +180,7 @@
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
-                        p Video: Little Nemo in Slumberland.
+                        p Video: <i>Little Nemo in Slumberland</i>.
             
             .row(titulo="1914")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -205,7 +205,7 @@
             
               .col-lg-8
                 h3 Rotoscopo
-                p.mb-0 Max Fleischer consigue la patente del rotoscopio y siguiendo la referencia de filmaciones de su hermano crea la película Out of the inkwell.
+                p.mb-0 Max Fleischer consigue la patente del rotoscopio y siguiendo la referencia de filmaciones de su hermano crea la película <i>Out of the inkwell</i>.
             
             .row(titulo="1918")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -213,7 +213,7 @@
                   img(src="@/assets/curso/tema2/img19.jpg", alt="historia imagén 18")
             
               .col-lg-8
-                p.mb-4 Se crea The sinking of the Lusitania, un hito de la animación para el cine de propaganda por parte de Winsor McCay.
+                p.mb-4 Se crea <i>The sinking of the Lusitania</i>, un hito de la animación para el cine de propaganda por parte de Winsor McCay.
 
                 .row.justify-content-center.mb-4
                   .col-10
@@ -221,7 +221,7 @@
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
-                        p Video: The sinking of the Lusitania.
+                        p Video: <i>The sinking of the Lusitania</i>.
             
             .row(titulo="1919 - 1921")
               h3.mb-1 1919
@@ -237,7 +237,7 @@
                   img(src="@/assets/curso/tema2/img20.jpg", alt="historia imagén 19")
             
               .col-lg-8
-                p.mb-4 Disney mezcla dibujos animados y acción real en Alice's Wonderland (Alicia en el país de las maravillas).
+                p.mb-4 Disney mezcla dibujos animados y acción real en <i>Alice's Wonderland</i> (Alicia en el país de las maravillas).
 
                 .row.justify-content-center.mb-4
                   .col-10
@@ -245,7 +245,7 @@
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
-                        p Video: Alice's Wonderland.
+                        p Video: <i>Alice's Wonderland</i>.
             
             .row(titulo="1926 - 1929")
               h3.mb-1 1926
@@ -266,13 +266,13 @@
             
             .row(titulo="1932 - 1935")
               h3.mb-1 1932
-              p.mb-4 Surge el Technicolor en la animación de la mano del cortometraje Flowers and Trees de Disney.
+              p.mb-4 Surge el Technicolor en la animación de la mano del cortometraje <i>Flowers and Trees de Disney</i>.
               h3.mb-1 1933
               p.mb-4 Mediante el uso de #[em stop motion] Willis O’Brien crea su gorila para King Kong, también se estrena Los tres cerditos de Disney, la primera película del estudio que sugiere una personalidad animada.
               h3.mb-1 1934
-              p.mb-4 Es presentado al público el Pato Donald en la película The Wise Little Hen.
+              p.mb-4 Es presentado al público el Pato Donald en la película <i>The Wise Little Hen</i>.
               h3.mb-1 1935
-              p.mb-0 German Oskar Fischinger realiza la animación abstracta Komposition in Blau.
+              p.mb-0 German Oskar Fischinger realiza la animación abstracta <i>Komposition in Blau</i>.
             
             .row(titulo="1937")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -310,11 +310,11 @@
             
               .col-lg-8
                 h3 La cenicienta
-                p.mb-4 Es estrenada Cinderella (La cenicienta) de Disney; y es estrenado el primer dibujo animado creado para televisión en Estados Unidos.
+                p.mb-4 Es estrenada <i>Cinderella</i> (La cenicienta) de Disney; y es estrenado el primer dibujo animado creado para televisión en Estados Unidos.
             
             .row(titulo="1952 - 1957")
               h3.mb-1 1952
-              p.mb-4 Es introducida la técnica de la pixilación por parte de Norman McLaren en la película Neighbours.
+              p.mb-4 Es introducida la técnica de la pixilación por parte de Norman McLaren en la película <i>Neighbours</i>.
               h3.mb-1 1953
               p.mb-4 Es creado Duck Amuch (el pato Lucas) en EE. UU. por Chuck Jones, animador de la Warner Bros.
               h3.mb-1 1954
@@ -482,7 +482,7 @@
             
             .row.justify-content-center
               .col-md-10
-                p.mb-4 Dentro del estilo clásico de la animación, se encuentra también la #[em Rotoscopia], que es una técnica donde el animador usa como referencia un video real, donde se redibuja o ‘#[em rotoscopea]’ el movimiento realista de una persona o animal y se estiliza el dibujo final. El uso de esta técnica brinda mayor realismo y naturalidad a los movimientos de los personajes. 
+                p.mb-4 Dentro del estilo clásico de la animación, se encuentra también la #[em <i>Rotoscopia</i>], que es una técnica donde el animador usa como referencia un video real, donde se redibuja o ‘#[em rotoscopea]’ el movimiento realista de una persona o animal y se estiliza el dibujo final. El uso de esta técnica brinda mayor realismo y naturalidad a los movimientos de los personajes. 
                 
                 .titulo-sexto.color-acento-contenido
                   span Dave Fleischer (1914)
@@ -491,7 +491,7 @@
             
             .row.justify-content-center
               .col-md-10
-                p.mb-4 Un ejemplo de esta técnica de Rotoscopia se puede ver el video musical #[em Take on me] del artista A-ha.
+                p.mb-4 Un ejemplo de esta técnica de <i>Rotoscopia</i> se puede ver el video musical #[em Take on me] del artista A-ha.
                 
                 a.anexo(href="https://youtu.be/djV11Xbc914" target="_blank")
                   .anexo__icono

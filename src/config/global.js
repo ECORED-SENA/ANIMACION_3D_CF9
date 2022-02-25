@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Animación de personajes 3D',
     descripcionCurso:
-      'La animación 3D representa de forma tridimensional y con datos geométricos una representación tomada de la realidad. En este componente se trabajará sobre los diferentes procesos involucrados, los cuales cubren el Layouts de la escena, los principios de animación que están involucrados, como la animación corporal, facial, loops, locomoción y puesta en escena.',
+      'La animación 3D representa de forma tridimensional y con datos geométricos una representación tomada de la realidad. En este componente se trabajará sobre los diferentes procesos involucrados, los cuales cubren el <i>Layouts</i> de la escena, los principios de animación que están involucrados, como la animación corporal, facial, <i>loops</i>, locomoción y puesta en escena.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Layout en blender',
+        titulo: '<i>Layout</i> en <i>blender</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Cámaras en Blender',
+            titulo: 'Cámaras en <i>Blender</i>',
             hash: 't_1_2',
           },
           {
@@ -59,7 +59,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Addon camera rigs',
+            titulo: '<i>Addon</i> <i>camera</i> <i>rigs</i>',
             hash: 't_1_6',
           },
         ],
@@ -121,7 +121,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'LIP SYNC',
+            titulo: '<i>LIP SYNC</i>',
             hash: 't_4_1',
           },
           {
@@ -142,7 +142,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Acting y entretenimiento',
+        titulo: '<i>Acting</i> y entretenimiento',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -188,26 +188,27 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Animation Arena. (2021). Acting and Animation.',
+      referencia: 'Animation Arena. (2021). <i>Acting</i> and Animation.',
       link: 'http://www.animationarena.com/acting-and-animation.html',
     },
     {
-      referencia: 'Blender. (2021). Camera View — Blender Manual.',
+      referencia:
+        '<i>Blender</i>. (2021). Camera View — <i>Blender</i> Manual.',
       link:
         'https://docs.blender.org/manual/es/2.93/editors/3dview/navigate/camera_view.html',
     },
     {
       referencia:
-        'FLOOBYNOOBY. (2021). James Baxter - Notes on Acting for Animation.',
+        'FLOOBYNOOBY. (2021). James Baxter - Notes on <i>Acting</i> for Animation.',
       link:
         'https://floobynooby.blogspot.com/2012/04/james-baxter-notes-on-acting-for.html?m=1',
     },
   ],
   glosario: [
     {
-      termino: 'Addon',
+      termino: '<i>Addon</i>',
       significado:
-        'Programa que se puede instalar en Blender para facilitar el desarrollo de algún proceso complejo en el software.',
+        'Programa que se puede instalar en <i>Blender</i> para facilitar el desarrollo de algún proceso complejo en el software.',
     },
     {
       termino: 'Emociones',
@@ -225,7 +226,7 @@ export default {
         'Característica de una persona que es tímida y le da pena entablar conversaciones con otras personas. ',
     },
     {
-      termino: 'Layout',
+      termino: '<i>Layout</i>',
       significado:
         'Etapa de la animación 3D en la cual se posicionan los elementos en el escenario y se posiciona la escena integrando todo lo que va en ella de acuerdo al storyboard.',
     },
@@ -248,7 +249,7 @@ export default {
   complementario: [
     {
       texto:
-        'ESCARDO | Club de Animación 3D. (2014). Tutorial de Animacion 3D: Brazos IK FK en Personajes / Rigs en Maya, Blender, 3DsMax, C4D.',
+        'ESCARDO | Club de Animación 3D. (2014). Tutorial de Animacion 3D: Brazos IK FK en Personajes / Rigs en Maya, <i>Blender</i>, 3DsMax, C4D.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=oEHBqiq97jA',
     },

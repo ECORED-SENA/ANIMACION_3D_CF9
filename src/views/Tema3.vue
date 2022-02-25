@@ -8,7 +8,7 @@
       h1 Ciclos de Animación
 
     div.tema3-div1.p-4.mb-5
-      p.mb-5 En Blender, se verán los ciclos de animación de los personajes, tales como caminar, correr, saltar, entre otros; para ello se trabajará con la línea de tiempo y la composición mediante fotogramas clave. <b>En los siguientes videos se verá cómo hacerlo, de igual manera el documento enlazado que da el paso a paso para conseguir el resultado:</b>
+      p.mb-5 En <i>Blender</i>, se verán los ciclos de animación de los personajes, tales como caminar, correr, saltar, entre otros; para ello se trabajará con la línea de tiempo y la composición mediante fotogramas clave. <b>En los siguientes videos se verá cómo hacerlo, de igual manera el documento enlazado que da el paso a paso para conseguir el resultado:</b>
 
       .row.justify-content-center
         .col-lg-6
@@ -20,7 +20,7 @@
         .tarjeta.p-4(titulo="Ciclo caminado")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
           h4.mb-5 Ciclo caminado
-          p.mb-4 Un ciclo de caminado puede ser un poco difícil de hacer, si no se tiene una correcta interpretación. Para realizar este ciclo en loop,  se ha dispuesto de un video explicativo:
+          p.mb-4 Un ciclo de caminado puede ser un poco difícil de hacer, si no se tiene una correcta interpretación. Para realizar este ciclo en <i>loop</i>,  se ha dispuesto de un video explicativo:
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
@@ -37,9 +37,9 @@
                 .video                  
                   iframe(width="1280" height="720" src="https://www.youtube.com/embed/MaAqgpIBOjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
-        .tarjeta.p-4(titulo="Non Linear Animation")        
+        .tarjeta.p-4(titulo="<i>Non Linear Animation</i>")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
-          h4.mb-5 Non Linear Animation
+          h4.mb-5 <i>Non Linear Animation</i>
           p.mb-4 Si bien se puede crear clips de animación en un orden específico con una historia específica en mente, la animación no lineal se refiere al proceso de mover, organizar, manipular y combinar esos clips para producir una nueva serie de movimientos. Se invita a ver el siguiente video respecto a este tema:
           .row.justify-content-center
             .col-lg-10
@@ -47,10 +47,10 @@
                 .video
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
-        .tarjeta.p-4(titulo="Mezcla de animaciones con <br>Non Linear Animation")        
+        .tarjeta.p-4(titulo="Mezcla de animaciones con <br><i>Non Linear Animation</i>")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
-          h4.mb-5 Mezcla de animaciones con Non Linear Animation
-          p.mb-4 Blender facilita la tarea de generar cadenas de movimientos, en donde se pueden integrar y mezclar y de esta forma crear interpolaciones entre animaciones, de esta forma crear una base de loops, movimientos dinámicos y fluidos. En el siguiente video se ofrece una explicación al respecto:
+          h4.mb-5 Mezcla de animaciones con <i>Non Linear Animation</i>
+          p.mb-4 <i>Blender</i> facilita la tarea de generar cadenas de movimientos, en donde se pueden integrar y mezclar y de esta forma crear interpolaciones entre animaciones, de esta forma crear una base de <i>loops</i>, movimientos dinámicos y fluidos. En el siguiente video se ofrece una explicación al respecto:
           .row.justify-content-center
             .col-lg-10
               figure.mb-0
@@ -77,10 +77,10 @@
                 .video
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
-        .tarjeta.p-4(titulo="Interacción de personajes con props")        
+        .tarjeta.p-4(titulo="Interacción de personajes con <i>props</i>")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
-          h4.mb-5 Interacción de personajes con props
-          p.mb-4 En Blender  se dispone de un modificador para hacer la labor de animación en la que los personajes interactúan con dichos objetos; se invita a ver los siguientes videos, que explican este tema:
+          h4.mb-5 Interacción de personajes con <i>props</i>
+          p.mb-4 En <i>Blender</i>  se dispone de un modificador para hacer la labor de animación en la que los personajes interactúan con dichos objetos; se invita a ver los siguientes videos, que explican este tema:
           .row.justify-content-center
             .col-lg-10
               figure.mb-0

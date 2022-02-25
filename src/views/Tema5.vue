@@ -5,10 +5,10 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 5
-      h1 Acting y entretenimiento
+      h1 <i>Acting</i> y entretenimiento
 
     div.tema3-div1.p-4.mb-0
-      p.mb-5 Cuando  se habla de acting, se referiere a la interpretación que los personajes animados darán en el proyecto audiovisual, puesto que, cada personaje tendrá unas características definidas que lo llevarán a comportarse y moverse de acuerdo con su expresión y estado de ánimo, imprimiendo características particulares en cada uno, ver figura 6.
+      p.mb-5 Cuando  se habla de <i>acting</i>, se referiere a la interpretación que los personajes animados darán en el proyecto audiovisual, puesto que, cada personaje tendrá unas características definidas que lo llevarán a comportarse y moverse de acuerdo con su expresión y estado de ánimo, imprimiendo características particulares en cada uno, ver figura 6.
 
       .titulo-sexto.color-acento-contenido
         h5 Figura 6
@@ -37,7 +37,7 @@
       .row.justify-content-center.mb-5
         .col-lg-6
           p.mb-4 Para dar credibilidad a los personajes, es necesario observar el trabajo realizado y entender si el actor se siente vivo, evaluar si las acciones de este, provienen de su interior, y son inherentes a él, así como las reacciones que presenta, son consistentes con lo que le rodea, según el estado de ánimo y personalidad y con el guión que representa.
-          p.mb-4 Se busca entonces hacer que el público empatice con el personaje, que genere sentimientos y conexión. Para ello, es necesario en ocasiones que no todo sea instintivo o reactivo; además, es necesario darle espacio en el acting del personaje, para que refleje pensamientos y análisis.
+          p.mb-4 Se busca entonces hacer que el público empatice con el personaje, que genere sentimientos y conexión. Para ello, es necesario en ocasiones que no todo sea instintivo o reactivo; además, es necesario darle espacio en el <i>acting</i> del personaje, para que refleje pensamientos y análisis.
           p.mb-0 El personaje debe reaccionar al entorno en que lo rodea de manera coherente, así como también a otros personajes y objetos, cada acción debe tener un porqué, y ese porqué debe ser razonable. En el siguiente video podrás consultar sobre este tema de interés:
         .col-lg-6
           figure.mb-0

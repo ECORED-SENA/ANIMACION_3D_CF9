@@ -8,7 +8,7 @@
       h1 Animación Facial
 
     div.tema3-div1.p-4.mb-5
-      p.mb-5 En Blender, se verán los ciclos de animación de los personajes, tales como caminar, correr, saltar, entre otros; para ello se trabajará con la línea de tiempo y la composición mediante fotogramas clave. <b>En los siguientes videos se verá cómo hacerlo, de igual manera el documento enlazado que da el paso a paso para conseguir el resultado:</b>
+      p.mb-5 En <i>Blender</i>, se verán los ciclos de animación de los personajes, tales como caminar, correr, saltar, entre otros; para ello se trabajará con la línea de tiempo y la composición mediante fotogramas clave. <b>En los siguientes videos se verá cómo hacerlo, de igual manera el documento enlazado que da el paso a paso para conseguir el resultado:</b>
 
       .row.justify-content-center
         .col-lg-6
@@ -16,10 +16,10 @@
             img(src="@/assets/curso/tema4/img01.png")
     
     #t4_1.titulo-segundo.color-acento-contenido
-      h2 4.1 LIP SYNC
+      h2 4.1 <i>LIP SYNC</i>
 
     .tema4-div1.mb-5
-      p.mb-4 La sincronización de animación facial (Lip Sync) es un proceso que consiste en sincronizar los gestos, articulando los labios, de un personaje con un audio o la voz de un actor, de manera que encajen perfectamente para hacer que parezca que realmente se está expresando.
+      p.mb-4 La sincronización de animación facial (<i>Lip Sync</i>) es un proceso que consiste en sincronizar los gestos, articulando los labios, de un personaje con un audio o la voz de un actor, de manera que encajen perfectamente para hacer que parezca que realmente se está expresando.
       p.mb-5 Para una animación en 2D son suficientes cuatro posiciones gestuales de los labios, haciendo más sencillo el proceso de sincronización; mientras que, para la animación de un modelo 3D existen demasiadas posiciones gestuales para los labios, pues es necesario que cada una exprese un sonido en particular (como se observa en la Figura 2 Expresiones faciales de labios). Con esto, se logra que el proceso de sincronización se vuelva mucho más complejo, ya que es necesario calcular los tiempos de la expresión (descomposición), así como la animación real de los labios para que coincida con los fonemas de la pista de audio.
 
       .titulo-sexto.color-acento-contenido
@@ -31,7 +31,7 @@
           figure
             img(src="@/assets/curso/tema4/img03.png")
 
-    p.mb-5 Es posible configurar una animación de sincronización de labios automatizada en blender, para cualquier personaje o un objeto aleatorio que encuentre en un sitio web de repositorio de archivos. En la siguiente figura 3, puede observarse el movimiento de los labios y boca, al realizar el proceso; además, <b>se invita a ver el siguiente video, con más información sobre este tema:</b>
+    p.mb-5 Es posible configurar una animación de sincronización de labios automatizada en <i>blender</i>, para cualquier personaje o un objeto aleatorio que encuentre en un sitio web de repositorio de archivos. En la siguiente figura 3, puede observarse el movimiento de los labios y boca, al realizar el proceso; además, <b>se invita a ver el siguiente video, con más información sobre este tema:</b>
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -41,13 +41,13 @@
 
     .titulo-sexto.color-acento-contenido
         h5 Figura 3
-        span LipSync de un modelo en 3D animado en blender 
+        span <i>LipSync</i> de un modelo en 3D animado en <i>blender</i> 
 
     .row.justify-content-center.mb-5 
         .col-lg-8
           figure
             img(src="@/assets/curso/tema4/img04.png")
-            figcaption Nota. Tomado de https://3dwithus.com/automated-lip-sync-animation-3d-model-blender-rhubarb
+            figcaption Nota. Tomado de https://3dwithus.com/automated-lip-sync-animation-3d-model-<i>blender</i>-rhubarb
 
     #t4_2.titulo-segundo.color-acento-contenido
       h2 4.2  Expresiones faciales
