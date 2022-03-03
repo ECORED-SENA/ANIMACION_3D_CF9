@@ -64,7 +64,7 @@
       h5 Figura 4
       span Jerarquía de las emociones humanas
     figure.mb-5
-      img(src="@/assets/curso/tema4/img05.svg")
+      img(src="@/assets/curso/tema4/img05.png")
       figcaption Nota. Tomado de https://www.psicologia-online.com/clasificacion-y-caracteristicas-de-las-emociones-1079.html
 
     p.mb-5 Las emociones básicas o primarias, pueden ser positivas implicando sentimientos agradables, como el amor y la alegría; o negativas, las cuales se producen por sucesos desfavorables ligados a sentimientos de frustración o desagrado como la ira, la tristeza, el miedo y el asco. Estas seis emociones, llamadas también emociones universales, son las más importantes, ya que a partir de ellas se desprende una gran variedad de otros sentimientos.

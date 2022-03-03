@@ -40,28 +40,27 @@
           p.mb-4 Se busca entonces hacer que el público empatice con el personaje, que genere sentimientos y conexión. Para ello, es necesario en ocasiones que no todo sea instintivo o reactivo; además, es necesario darle espacio en el <i>acting</i> del personaje, para que refleje pensamientos y análisis.
           p.mb-0 El personaje debe reaccionar al entorno en que lo rodea de manera coherente, así como también a otros personajes y objetos, cada acción debe tener un porqué, y ese porqué debe ser razonable. En el siguiente video podrás consultar sobre este tema de interés:
         .col-lg-6
-          figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+          figure
+            img(src="@/assets/curso/tema5/gif Empuja.gif")
 
       p.mb-0 <b>El estado de ánimo del personaje, juega un papel importante en estas variaciones</b>, según cómo se desarrollan las situaciones, él tendrá diferentes estados de ánimo los cuales deben ser reflejados mediante su comportamiento corporal. No es suficiente solo demostrar actitud y personalidad en los personajes creados; además, debe ser consistente, si un personaje es extrovertido, debe tenerse claridad si hay un cambio en el estado de ánimo, y que sea justificado, de lo contrario se perderá la congruencia y coherencia del personaje. En los videos que se encuentran a continuación, se podrá observar ejemplos del estado de ánimo del personaje, mediante diálogos y expresiones corporales:
 
     .tema-1.mb-5
       TabsB.color-acento-botones
         .p-4.py-md-5(titulo="Camina Pesado" :icono="require('@/assets/curso/tema1/img04.svg')")          
-          figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figure
+            img(src="@/assets/curso/tema5/gif Camina Pesado.gif")
+
 
         .p-4.py-md-5(titulo="Camina Orgulloso" :icono="require('@/assets/curso/tema1/img04.svg')")          
-          figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figure
+            img(src="@/assets/curso/tema5/gif Camina con orgullo.gif")
+
 
         .p-4.py-md-5(titulo="Enojado" :icono="require('@/assets/curso/tema1/img04.svg')")          
-          figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figure
+            img(src="@/assets/curso/tema5/gif Enojado.gif")
+
 
 
     .tema-5.mb-5
@@ -99,9 +98,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        figure.mb-0
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figure
+            img(src="@/assets/curso/tema5/gif acting-.gif")
 
     .tema5-div3.mb-5       
       p.mb-5 Además de lo anterior, es necesario crear puntos de atención, ya que estos ayudan a que el personaje destaque acciones, y resalte emociones, como, por ejemplo: si el personaje en determinado caso realiza una acción y todo lo demás está detenido. Así también el posado del personaje ayuda a que las emociones que se busca transmitir luzcan bien en pantalla, por esto se recomienda utilizar solo las poses necesarias, no se debe crear poses demás, esto ocasionará que los movimientos no se vean reales, ver figura 8.
@@ -111,9 +109,8 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
-          figure.mb-0
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figure
+            img(src="@/assets/curso/tema5/img06.png")
 
       p.mb-4 Es importante simplificar las tomas, para que cada acción se detalle y la atención se centre en cada una de ellas, el personaje debe moverse si lo amerita, pero si no hay movimientos justificables debe evitarse, la idea no es moverse por moverse, sino moverse en función de alguna acción. En la medida en que se dé tiempo a que los personajes hagan una transición entre una emoción y otra, se dará mayor realismo y veracidad al momento.
       p.mb-5 Igualmente es necesario darle estilo a los movimientos del personaje para que reflejen su personalidad, los haga destacar y que queden en la memoria del espectador, además de la recordación del personaje, posibilitará la identificación con este y sus acciones.<br><br>

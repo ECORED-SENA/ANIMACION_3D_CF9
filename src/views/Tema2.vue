@@ -456,7 +456,7 @@
               .col-md-10
                 p.mb-4 Es una de las formas más antiguas de animar, en donde cada cuadro o fotograma es dibujado y pintado a mano. Es importante saber que 1 segundo de video o animación es igual a 24 cuadros, dibujos o fotogramas.
                 
-                .titulo-sexto.color-acento-contenido
+                .titulo-sexto.color-acento-botones
                   span Dibujos hechos a mano
                 figure
                   img(src="@/assets/curso/tema2/A02.jpg", alt="Técnicas de animación 2")
@@ -475,7 +475,7 @@
               .col-md-10
                 p.mb-4 Alrededor de los 90 la mayoría de los estudios dejaron de usar los acetatos y empezaron a escanear sus dibujos para pintarlos en la computadora. Hoy día, muchos animadores clásicos no usan el papel y lápiz, sino que dibujan directamente en el ordenador usando tabletas digitales o monitores especiales. 
                 
-                .titulo-sexto.color-acento-contenido
+                .titulo-sexto.color-acento-botones
                   span Dispositivos especiales para digitalizar dibujos
                 figure
                   img(src="@/assets/curso/tema2/A03.jpg", alt="Técnicas de animación 3")
@@ -484,7 +484,7 @@
               .col-md-10
                 p.mb-4 Dentro del estilo clásico de la animación, se encuentra también la #[em <i>Rotoscopia</i>], que es una técnica donde el animador usa como referencia un video real, donde se redibuja o ‘#[em rotoscopea]’ el movimiento realista de una persona o animal y se estiliza el dibujo final. El uso de esta técnica brinda mayor realismo y naturalidad a los movimientos de los personajes. 
                 
-                .titulo-sexto.color-acento-contenido
+                .titulo-sexto.color-acento-botones
                   span Dave Fleischer (1914)
                 figure
                   img(src="@/assets/curso/tema2/A04.jpg", alt="Técnicas de animación 4")
@@ -508,7 +508,7 @@
               .col-md-10
                 p.mb-4 Esta categoría describe la animación creada a partir de la manipulación de objetos físicos que son movidos ligeramente y fotografiando fotograma a fotograma con el fin de dar la ilusión de estar vivos. Existen varias subcategorías de este estilo, principalmente por el medio o material usado para crear la animación (Laybourne, 1998).
                 
-                .titulo-sexto.color-acento-contenido
+                .titulo-sexto.color-acento-botones
                   span #[em Stop motion]
                 figure
                   img(src="@/assets/curso/tema2/A06.jpg", alt="Técnicas de animación 6")
@@ -547,7 +547,7 @@
               .col-md-10
                 p.mb-4 El #[em Sand animation] y el #[em Oil Paint animation] utilizan arena y pinturas u óleos respectivamente, sobre una superficie de vidrio o mesa de luz.
                 
-                .titulo-sexto.color-acento-contenido
+                .titulo-sexto.color-acento-botones
                   span Mujer dibujando sobre mesa de luz y arena
                 figure
                   img(src="@/assets/curso/tema2/A07.jpg", alt="Técnicas de animación 7")
@@ -571,7 +571,7 @@
 
     p.mb-5 A continuación se verán los 12 principios de la animación. 
 
-    #MapaGroup01
+    #MapaGroup01.mb-5
       .row.mb-5
         .col-2.col-lg-1
           button.btn.p-0(data-bs-toggle='collapse' data-bs-target='#MapaCollapse01' aria-expanded='true' aria-controls='#MapaCollapse01')
@@ -653,8 +653,8 @@
           .row
             .col-7
               p.mt-5 Permite mostrar que el elemento posee peso y elasticidad, esto lo podemos imaginar con una pelota de caucho, que al golpear el suelo se comprime y cuando esta rebota se estira. Esto incluso se puede también utilizar en otros elementos para mostrar dinamismo en el movimiento, como por ejemplo un rostro que se estira. 
-            .col-5
-              .titulo-sexto.color-acento-contenido
+            .col-5              
+              .titulo-sexto.color-acento-botones
                 h5 Figura 15
                 span #[em Squash and stretch]
               figure
@@ -668,7 +668,7 @@
             .col-7
               p.mt-5 Antes de una acción, se puede anticipar a la realización de aquella, por ejemplo, si va a dar un golpe, primero gira el cuerpo y lleva el brazo hacia atrás y luego da el golpe. Si va a dar un salto, primero se puede agachar, para tomar impulso y luego saltar. En cambio, si se realiza el salto sin tomar el impulso inicial, el salto final evidenciará la falta de fuerza y dinamismo en el movimiento. Además, la anticipación prepara a la audiencia ante una nueva acción a realizarse.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 16
                 span Anticipación
               figure
@@ -682,7 +682,7 @@
             .col-7
               p.mt-5 Cada fotograma que contiene cada escena debe contar algo, es importante no perder detalles en la composición de las escenas, el personaje debe transmitir emociones, evidenciado a partir de su gestualidad. Esta debe estar conectada a la continuidad de la historia, por ende, nos indica por ejemplo en un videojuego, que el personaje se encuentra herido y tiene opciones como curarse, si tiene con que, o debe seguir adelante y enfrentar la batalla y arriesgarse, o regresar y buscar una cura. Pero la puesta en escena también debe contener complementos en la ambientación, que refuercen la idea de lo que está pasando o va a pasar durante esa acción. Demasiados elementos en la escena se vuelven distractores.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 17
                 span Puesta en escena
               figure
@@ -697,7 +697,7 @@
               p.mt-5.mb-4 Técnica de animación en el que se despliegan una serie de posiciones corporales clave y se rellenan los espacios entre estas con posiciones secundarias para ir de una pose inicial a una pose final. Aquí se crean las poses principales, en las escenas #[em pose to pose] se marcan principalmente los fotogramas más importantes de la acción que se va a realizar, ya posteriormente se pueden rellenar los #[em frames] intermedios.
               p La otra forma de animar es el #[em straight ahead], en la que se va ilustrando, a medida que se va avanzando, sin tener un clave final, sino que la animación va fluyendo, como ejemplo se puede animar fuego o humo.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 18
                 span #[em Pose to pose]
               figure
@@ -711,7 +711,7 @@
             .col-7
               p.mt-5 Esta acción permite que los objetos que se encuentren anexos al personaje, como por ejemplo una bufanda o una capa, esta siga el movimiento del personaje animado. Si es un #[em toon] que está corriendo y de repente frena en seco, su cabello se mueve hacia delante después de haberse detenido. Si utilizamos una cuerda de guitarra, está en un principio se estira, pero cuando su movimiento principal termina, quedan ondas de la cuerda en movimiento que continúan hasta detenerse.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 19
                 span #[em Overlapping action]
               figure
@@ -727,7 +727,7 @@
               p.mb-4 #[strong Slow in.] Si observamos un auto cuando arranca empieza en 0, pero este va aumentando su velocidad, a esto le llamaríamos #[em Slow in], en el que se encuentra acelerando.
               p #[strong Slow out.] Este mismo carro ya viene a alta velocidad y empieza a frenar, lo definimos como #[em slow out]. Se puede determinar el tipo de velocidad con el que puede avanzar el personaje. Un timing igual se vuelve aburrido, monótono; en cambio, si este tiene aceleración o desaceleración, mostrará dinamismo, a pesar de que el tiempo de carrera sea el mismo. Esto influye en generar emociones con las acciones.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 20
                 span #[em Slow in and slow out]
               figure
@@ -741,7 +741,7 @@
             .col-7
               p.mt-5 Trayectoria de un personaje u objeto de una pose extrema hasta otra para darle mayor realismo al movimiento. Los arcos le dan fluidez al movimiento, hace que sean más sutiles y no sean ordinarios. Dándole naturalidad al movimiento, lo mismo sucede con el movimiento de los brazos, las piernas; en sí el cuerpo humano y los animales tienen movimientos que siguen las formas de curvas. Por ejemplo, un péndulo, siempre está sujeto desde una posición y al moverse de un lado a otro, genera una curva visual, los brazos rotan desde el hombro, las piernas desde la cadera. Si un personaje camina en línea recta sin arcos, se puede ver robotizado.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 19
                 span #[em Arcs]
               figure
@@ -755,7 +755,7 @@
             .col-7
               p.mt-5 Hace referencia al tiempo que tarda un objeto en desplazarse de un lugar a otro. Es el uso del espacio y el tiempo, lo cual se puede medir a partir de #[em frames], generalmente para un segundo de animación se usan 24, que en sí serían 24 imágenes, estas pueden repetirse, para no tener que realizar tantas ilustraciones. Estilos muy avanzados en animación realizan una por #[em frame]. Si se observan los círculos en la siguiente figura, se aprecia que el tiempo es el mismo, pero los intervalos son diferentes. En la primera se ven al inicio, más cercanos los #[em frames], pero a medida que avanza estos se van separando. Al estar más cercanos indica que está andando más lento y al alejarse acelera. Si miramos la misma imagen de derecha a izquierda, va en carrera y empieza a mermar su velocidad.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 22
                 span #[em Timing]
               figure
@@ -769,7 +769,7 @@
             .col-7
               p.mt-5 Relacionado con el #[em squash and stretch], pero exagerando mucho más los estiramientos, puede marcar una acción de forma más precisa, dándole fuera a las gestualidades, por ejemplo, si está gritando, se puede estirar la mandíbula lo que más se pueda.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 23
                 span Exageración
               figure
@@ -783,7 +783,7 @@
             .col-7
               p.mt-5 Son pequeños movimientos o gestos que refuerzan el movimiento principal, lo que permite que, si una acción está mostrando una idea, con la acción secundaria esta se puede reforzar, como ejemplo una persona se encuentra esperando en el hospital, está enojado, manotea con su mano, y luego en una acción secundaria, empieza a mover su pie rápidamente, demostrando estrés y acentuando más su disgusto.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 24
                 span Acciones secundarias
               figure
@@ -797,7 +797,7 @@
             .col-7
               p.mt-5 Este se caracteriza por tener volumen y peso, por ello es importante poder dibujar y representar desde todos los ángulos, creando un volumen tridimensional, esto quiere decir que el elemento que se esté dibujando no se vea plano, sino que tenga 3 dimensiones. Su cuerpo puede girar 360° sin problema, además, es importante que se puede mover en un escenario tridimensional o en perspectiva. Por ejemplo, si está en un plano que se pueda alejar, o acercar, el personaje debe parecer que tiene un peso, un volumen y un balance entre sus partes.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 25
                 span Dibujo sólido
               figure
@@ -811,7 +811,7 @@
             .col-7
               p.mt-5 Este principio no es crear un personaje bello, sino un personaje con personalidad y debe generar interés. Es importante no agregar detalles que no sean necesarios y generen distracción, cuantas más líneas limpias tenga, se definirá mejor la simplicidad, el magnetismo y su comunicación. Esto no solo sucede con el personaje, también en la escena, debe haber un atractivo en los movimientos, en la composición de los escenarios. cómo conjuga todo al tiempo y crea atracción, despertando una emoción en el espectador.
             .col-5
-              .titulo-sexto.color-acento-contenido
+              .titulo-sexto.color-acento-botones
                 h5 Figura 25
                 span #[em Appeal]
               figure
@@ -824,7 +824,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-botones
           h5 Figura 27
           span Inactivo
         figure.mb-5
@@ -848,7 +848,7 @@
         
         p.mb-4 En la tercera figura el #[em frame] 13 es casi igual que la primera, solo que los brazos y piernas van en sentido opuesto, igual que en la cuarta imagen #[em frame] 19, la pierna izquierda es la que está plantada y es parecida al #[em frame] 7 y la última figura, el #[em frame] 25, es la misma que el #[em frame] 1. Todos estos #[em frames] se repetirán indefinidamente, y entre ellos, se pueden completar los #[em frames] faltantes para darle fluidez al movimiento, pero con estos #[em frames] realizados ya se puede ver la acción. El cuerpo nunca se mueve recto, pues el cuerpo sube y baja.
 
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-botones
           h5 Figura 28
           span #[em Walk] / Caminar
         figure.mb-5
@@ -859,7 +859,7 @@
           .col-lg-10.mb-4
             p.mb-0 El salto permite que el personaje se desplace hacia arriba, despegándose del suelo, para poder llegar a otro lado, o caer en el mismo punto de origen. esquivar un enemigo, saltar y destruir un #[em npc].
 
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-botones
           h5 Figura 29
           span #[em Jump] / Saltar
         figure.mb-5
@@ -873,7 +873,7 @@
           .col-lg-10.mb-4
             p.mb-0 Una de las animaciones más usadas, es como el personaje ataca, lanza un golpe o usa una espada. Estos son movimientos que, por lo general, son movimientos rápidos: puede mover las piernas para crear estabilidad en el movimiento y verse natural; es importante siempre llegar al mismo punto de partida. 
 
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-botones
           h5 Figura 30
           span Ataque esqueleto
         figure.mb-4
@@ -892,7 +892,7 @@
           .col-lg-10.mb-4
             p.mb-0 La acción de agacharse puede referirse cuando el personaje trata de ocultarse, pasar bajo algo, necesitar recoger algún elemento del suelo, esquivar un golpe, una bala, un #[em npc] aéreo, entre muchas más.
 
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-botones
           h5 Figura 31
           span Agacharse
         figure.mb-5
@@ -906,7 +906,7 @@
           .col-lg-10.mb-4
             p.mb-0 La muerte del personaje puede pasar porque pisó algún elemento que lo mataba de una o por que le fueron quitando la sangre poco a poco. Aquí se puede mostrar cómo el personaje cae al piso, después de que pierde su vida. Es importante tener como eje principal los pies del personaje, para que al momento de pasar la animación al motor de juego, este caiga correctamente, y no se deslice.
 
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-botones
           h5 Figura 32
           span #[em Dead]
         figure.mb-5

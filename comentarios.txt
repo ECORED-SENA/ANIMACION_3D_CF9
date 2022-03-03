@@ -12,3 +12,15 @@ H18: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se 
 H19: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
 H20: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
 H22: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
+
+H31: Se escala al diseñador y al lider del equipo
+H32: Se escala al diseñador y al lider del equipo
+H33: Se escala al diseñador y al lider del equipo
+H34: Se escala al diseñador y al lider del equipo
+H35: Se escala al diseñador y al lider del equipo
+H36: Se escala al diseñador y al lider del equipo
+H37: Se escala al diseñador y al lider del equipo
+H38: Se escala al diseñador y al lider del equipo
+H39: Se escala al diseñador y al lider del equipo
+
+H43: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado

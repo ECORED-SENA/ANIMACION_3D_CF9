@@ -116,8 +116,8 @@
 
     div.p-0.d-flex.align-items-center.mb-5(style="position:relative")
       div.px-5(style="position:absolute; width:100%")
-        .row.tema1-div-1-2.px-5.py-4
-          .col-lg-7
+        .row.tema1-div-1-2.px-5.py-5
+          .col-lg-7.py-3
             p.mb-0 La profundidad de campo ayuda a destacar los objetos posicionados en el escenario, resaltando puntos de interés diferenciados entre distancias. <b>De igual manera en el siguiente video se verá el proceso:</b>
           .col-lg-5
       .row.justify-content-center.align-items-center(style=" width:100%; z-index:1000")
@@ -159,7 +159,7 @@
     #t_1_6.titulo-segundo.color
       h2 1.6  <i>Addon</i> <i>camera</i> <i>rigs</i>
 
-    p.mb-4 <i>Blender</i> dispone de un <i>addon</i>, con el cual se puede generar cámaras con <i>rigg</i>, como si estuviesen montadas en maquinaria, como si fuera en un set de grabación, con este se pueden generar movimientos de cámara y planos de una manera cercana a la realidad. 
+    p.mb-4 <i><b>Blender</b></i> dispone de un <i>addon</i>, con el cual se puede generar cámaras con <i>rigg</i>, como si estuviesen montadas en maquinaria, como si fuera en un set de grabación, con este se pueden generar movimientos de cámara y planos de una manera cercana a la realidad. 
     p.mb-4 <b>Al igual que los anteriores procedimientos, a continuación, se podrá observar el video explicativo a este proceso:</b>
     figure.mb-5
       .video      
