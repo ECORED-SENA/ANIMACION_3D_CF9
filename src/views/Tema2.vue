@@ -672,7 +672,7 @@
                 h5 Figura 16
                 span Anticipación
               figure
-                img(src='@/assets/curso/tema2/2.gif', alt='Anticipación')
+                img(src='@/assets/curso/tema2/img101.png', alt='Anticipación')
 
       #MapaCollapse03.collapse(data-bs-parent='#MapaGroup01')  
         .BG02Full.p-4
@@ -686,7 +686,7 @@
                 h5 Figura 17
                 span Puesta en escena
               figure
-                img(src='@/assets/curso/tema2/3.gif', alt='Puesta en escena')
+                img(src='@/assets/curso/tema2/img102.png', alt='Puesta en escena')
       
       #MapaCollapse04.collapse(data-bs-parent='#MapaGroup01')
         .BG02Full.p-4
@@ -731,7 +731,7 @@
                 h5 Figura 20
                 span #[em Slow in and slow out]
               figure
-                img(src='@/assets/curso/tema2/6.gif', alt='Slow in and slow out')
+                img(src='@/assets/curso/tema2/img104.png', alt='Slow in and slow out')
       
       #MapaCollapse07.collapse(data-bs-parent='#MapaGroup01')
         .BG02Full.p-4
@@ -773,7 +773,7 @@
                 h5 Figura 23
                 span Exageración
               figure
-                img(src='@/assets/curso/tema2/9.gif', alt='Exageración')
+                img(src='@/assets/curso/tema2/img105.png', alt='Exageración')
       
       #MapaCollapse10.collapse(data-bs-parent='#MapaGroup01')
         .BG02Full.p-4
@@ -787,7 +787,7 @@
                 h5 Figura 24
                 span Acciones secundarias
               figure
-                img(src='@/assets/curso/tema2/10.gif', alt='Acciones secundarias')
+                img(src='@/assets/curso/tema2/img106.png', alt='Acciones secundarias')
       
       #MapaCollapse11.collapse(data-bs-parent='#MapaGroup01')
         .BG02Full.p-4
@@ -801,7 +801,7 @@
                 h5 Figura 25
                 span Dibujo sólido
               figure
-                img(src='@/assets/curso/tema2/11.gif', alt='Dibujo sólido')
+                img(src='@/assets/curso/tema2/img107.png', alt='Dibujo sólido')
       
       #MapaCollapse12.collapse(data-bs-parent='#MapaGroup01')
         .BG02Full.p-4
@@ -815,7 +815,7 @@
                 h5 Figura 25
                 span #[em Appeal]
               figure
-                img(src='@/assets/curso/tema2/12.gif', alt='Appeal')
+                img(src='@/assets/curso/tema2/img108.png', alt='Appeal')
     
     //- separador
       
