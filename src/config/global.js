@@ -74,7 +74,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Historia de la animación',
+            titulo: 'Animación',
             hash: 't_2_1',
           },
           {

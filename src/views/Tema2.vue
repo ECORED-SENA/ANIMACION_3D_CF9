@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 2
-      h1 Historia de la animación
+      h1 Animación
     
     //- figure
     //-   img(src="@/assets/curso/tema2/img01.jpg", alt="Animación")
@@ -15,7 +15,7 @@
 
     .tema2-div1
       
-      #t2_1.titulo-segundo.color-acento-contenido
+      #t_2_1.titulo-segundo.color-acento-contenido
         h2 2.1 Historia de la animación
       
       p.mb-4 No es fácil determinar una fecha exacta, sin embargo, desde sus inicios, el ser humano ha tenido la necesidad de plasmar o representar las cosas que ve en el mundo que lo rodea. Ahora, se verá cómo se ha desarrollado la animación a través de la historia.
@@ -439,7 +439,7 @@
         
       //- separador    
       
-      #t2_2.titulo-segundo.color-acento-contenido
+      #t_2_2.titulo-segundo.color-acento-contenido
         h2 2.2 Técnicas de animación
       
       p.mb-4 Existen varios estilos o técnicas de animación que van desde el uso de la fotografía y dibujo a mano hasta las imágenes generadas por computadora. En este apartado no se pretende profundizar en cada una de las técnicas, pues la información y proceso de producción de cada una es muy extensa; más bien, se busca caracterizar de forma general cada una de las técnicas y ahondar en aquellas que sean de interés.
@@ -564,7 +564,7 @@
         
       //- separador
         
-    #t2_3.titulo-segundo.color-acento-contenido
+    #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Principios de animación
     
     p.mb-4 Estos son fundamentales durante el proceso de animación, pero también para el desarrollo de las emociones que transmiten al público, por ello es indispensable hacer uso de algunos de estos principios para darle fuerza y características a los personajes, estos son 12, pero claramente multiplica el abanico de posibilidades durante el desarrollo, además de que facilita y da herramientas indispensables para acentuar de una forma correcta lo que se quiere comunicar.
@@ -819,7 +819,7 @@
     
     //- separador
       
-    #t2_4.titulo-segundo.color-acento-contenido
+    #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Animaciones básicas
     
     .row.justify-content-center.mb-5
@@ -915,7 +915,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/OHYSoettZ6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    #t2_5.titulo-segundo.color-acento-contenido
+    #t_2_5.titulo-segundo.color-acento-contenido
       h2 2.5 Fundamentos básicos de física
 
     p.mb-4 La física es fundamental en el desarrollo de cualquier animación debido a que la encontramos diariamente en el mundo real. Por eso entender cómo funcionan es fundamental para el proceso de realización de cualquier proyecto audiovisual. A continuación, se presentan las características de la física que deben ser tenidas en cuenta, para obtener buenos resultados en sus proyectos:
@@ -949,12 +949,12 @@
               TabsB.color-acento-botones
                 .py-4.py-md-5.px-4(titulo="Liquido" :icono="require('@/assets/curso/tema1/img04.svg')")          
                   figure.mb-0
-                    .video
-                      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                    .video                    
+                      iframe(width="1280" height="720" src="https://www.youtube.com/embed/hRT6ukR8I98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
                 .py-4.py-md-5.px-4(titulo="Lluvia" :icono="require('@/assets/curso/tema1/img04.svg')")
                   figure.mb-0
-                    .video
-                      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                    .video                    
+                      iframe(width="1280" height="720" src="https://www.youtube.com/embed/hw4AtWSYzro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
           .tarjeta.p-4(titulo="Fricción")
             h4.mb-4 Fricción
@@ -1007,8 +1007,8 @@
             .row.justify-content-center
               .col-lg-10
                 figure
-                  .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  .video                  
+                    iframe(width="1280" height="720" src="https://www.youtube.com/embed/YAtRXlgE0HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           
     
     Separador
