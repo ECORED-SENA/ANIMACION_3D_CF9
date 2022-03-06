@@ -938,8 +938,8 @@
             .row.justify-content-center
               .col-lg-10
                 figure
-                  .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  .video                  
+                    iframe(width="1255" height="706" src="https://www.youtube.com/embed/-Xs2mpYlQ1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .tarjeta.p-4(titulo="Fluidos")
             h4.mb-4 Fluidos
             p.mb-4 Se refiere a toda sustancia que tiene la propiedad de deformarse continuamente (fluye), cediendo ante cualquier cantidad de fuerza, aplicada para cambiar su forma, careciendo de rigidez y elasticidad. Los fluidos más conocidos pueden encontrarse en estado líquido en el que las partículas que conforman la sustancia presentan cierto movimiento y volumen constante, pero sin una forma definida; y en estado gaseoso en el que las moléculas de la sustancia tienen poca fuerza de atracción entre sí, ocasionando que no tengan un volumen ni forma definida, expandiéndose libremente.
@@ -963,8 +963,8 @@
             .row.justify-content-center
               .col-lg-10
                 figure
-                  .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  .video                  
+                    iframe(width="1255" height="706" src="https://www.youtube.com/embed/KkIJ3nYGvbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .tarjeta.p-4(titulo="Gravedad")
             h4.mb-4 Gravedad
             p.mb-4 Es la fuerza que ejerce la masa de un planeta sobre un cuerpo u objeto atrayéndolo hacia su centro y depende de su masa: a mayor masa, mayor será la fuerza ejercida sobre él. El efecto de esta interacción gravitatoria se conoce comúnmente como peso, el cual es responsable de la caída de los cuerpos, acelerando los que se mueven hacia abajo y frenando los que se mueven hacia arriba.
@@ -972,8 +972,8 @@
             .row.justify-content-center
               .col-lg-10
                 figure
-                  .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  .video                    
+                    iframe(width="1255" height="706" src="https://www.youtube.com/embed/05-uTe2IeOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .tarjeta.p-4(titulo="Maleabilidad y Ductilidad")
             h4.mb-4 Maleabilidad y Ductilidad
             p.mb-4 Son propiedades que le permiten a un material sufrir deformaciones plásticas cuando se les aplica una compresión sin llegar a romperse. Gracias a la maleabilidad pueden obtenerse laminas delgadas o gruesas dependiendo del material, mientras que la ductilidad permite obtener alambres o hilos.
@@ -982,8 +982,8 @@
             .row.justify-content-center
               .col-lg-10
                 figure
-                  .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  img(src="@/assets/curso/tema2/gif Maleabilidad.gif")
+
           .tarjeta.p-4(titulo="Movimiento y Reposo")
             h4.mb-4 Movimiento y Reposo
             p.mb-4 El movimiento se produce cuando un cuerpo u objeto cambia de posición o se desplaza en un intervalo de tiempo. Por el contrario, se dice que un objeto está en reposo cuando carece de movimiento alguno, y puede ser relativo, cuando el objeto estático está encima de un objeto en movimiento, (por ejemplo, un pasajero que se desplaza en un autobús); o absoluto cuando el objeto sin movimiento se encuentra en un espacio estático.

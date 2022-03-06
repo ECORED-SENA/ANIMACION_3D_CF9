@@ -35,12 +35,16 @@
             h4.mb-4 Integrando archivos fbx en el escenario
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     
-    p.mb-4 De igual manera en el documento enlazado se dispone el paso a paso para conseguir buenos resultados:
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.align-items-center.mb-5
+      .col-7
+        .tema-1-anexo1
+          a.anexo.mb-4(:href="obtenerLink('/downloads/IntegrandoPersonajeEnelSscenario.pdf')" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-pdf.svg")
+            .anexo__texto
+              p De igual manera en el documento enlazado se dispone el paso a paso para conseguir buenos resultados
     
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Cámaras en <i>Blender</i>
@@ -77,7 +81,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-7
         .tema-1-anexo1
-          a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/camaraBlender.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
