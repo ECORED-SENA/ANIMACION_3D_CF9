@@ -29,7 +29,7 @@
           .row.justify-content-center.align-items-center
             .col-7
               .tema-1-anexo1
-                a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('/downloads/ciclocaminando.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -105,7 +105,7 @@
           .row.justify-content-center.align-items-center
             .col-7
               .tema-1-anexo1
-                a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('/downloads/Salto.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -124,7 +124,7 @@
           .row.justify-content-center.align-items-center
             .col-7
               .tema-1-anexo1
-                a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('/downloads/InteraccionPersonajesconProps.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto

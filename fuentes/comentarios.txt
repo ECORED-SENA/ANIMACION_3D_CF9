@@ -2,17 +2,6 @@ H4: En el documento tecnico del CF9, pagina 2, se sugiere el video (Integrando a
 H5: En el documento tecnico del CF9, pagina 2, se sugiere el video (Integrando archivos fbx en el escenario) https://drive.google.com/file/d/1I2hv7zHAlPeqvqQoCJ0b0y64tL7JSkNo/view, el cual no logro ubicar en la lista que me han proporcionado directamente en esta tarjeta ni ntampoco en la tarjeta padre. Tampoco lo puedo agregar directamente al proyecto por pesar mas de 90 Mb
 
 
-H14: Se requiere indicacion del video exacto a vincular ya que no se encuentra el apropiado
-H15: Se requiere indicacion del video exacto a vincular ya que no se encuentra el apropiado
-H17: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
-H18: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
-H19: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
-H20: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
-H22: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
-
 @carlosjramirez1 @luisuru
 H34: Se escala al diseñador y al lider del equipo
 H35: Se escala al diseñador y al lider del equipo
-
-H43: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado
-H44: (El pdf) Se requiere indicacion del archivo exacto a vincular ya que no se encuentra el apropiado

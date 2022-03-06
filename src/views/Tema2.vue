@@ -997,8 +997,8 @@
             .row.justify-content-center
               .col-lg-10
                 figure
-                  .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  img(src="@/assets/curso/tema2/gif Plasticidad.gif")
+
           .tarjeta.p-4(titulo="Viscosidad")
             h4.mb-4 Viscosidad
             p.mb-4 Es una propiedad que se refiere a la fricción interna, o resistencia a fluir y deformarse, que poseen algunos fluidos.
