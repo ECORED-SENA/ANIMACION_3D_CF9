@@ -58,7 +58,7 @@
           .row.justify-content-center.align-items-center
             .col-7
               .tema-1-anexo1
-                a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('/downloads/NonLinearAnimation.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -74,10 +74,10 @@
                 .video                
                   iframe(width="1280" height="720" src="https://www.youtube.com/embed/be96F6qpQj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
-        .tarjeta.p-4(titulo="Ciclo a través de un path")        
+        .tarjeta.p-4(titulo="Ciclo a través de un <em>path</em>")        
           h4.mb-4.tema-3-color-tab Explicación del proceso
-          h4.mb-5 Ciclo a través de un path
-          p.mb-4 En los ciclos de animación, para que el personaje siga el camino o ruta determinada que le ha asignado, se puede anexar un path. El siguiente video explica el proceso, paso a paso:
+          h4.mb-5 Ciclo a través de un #[i path]
+          p.mb-4 En los ciclos de animación, para que el personaje siga el camino o ruta determinada que le ha asignado, se puede anexar un #[i path]. El siguiente video explica el proceso, paso a paso:
           .row.justify-content-center
             .col-lg-10
               figure.mb-0

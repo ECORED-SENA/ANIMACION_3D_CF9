@@ -6,17 +6,12 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 2
-      h1 Animación
-    
-    //- figure
-    //-   img(src="@/assets/curso/tema2/img01.jpg", alt="Animación")
-    
-    //- separador
+      h1 Historia de la animación
 
     .tema2-div1
       
       #t_2_1.titulo-segundo.color-acento-contenido
-        h2 2.1 Historia de la animación
+        h2 2.1 Animación
       
       p.mb-4 No es fácil determinar una fecha exacta, sin embargo, desde sus inicios, el ser humano ha tenido la necesidad de plasmar o representar las cosas que ve en el mundo que lo rodea. Ahora, se verá cómo se ha desarrollado la animación a través de la historia.
 
@@ -156,7 +151,7 @@
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
-                        p Video: Fantasmagorie.
+                        p Video: #[i Fantasmagorie].
             
             .row(titulo="1910")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -196,7 +191,7 @@
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
-                        p Video: Gertie the Dinosaur.
+                        p Video: #[i Gertie the Dinosaur].
             
             .row(titulo="1916")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -225,11 +220,11 @@
             
             .row(titulo="1919 - 1921")
               h3.mb-1 1919
-              p.mb-4 Paramount Pictures estrena el cortometraje animado Feline Follies.
+              p.mb-4 Paramount Pictures estrena el cortometraje animado #[i Feline Follies].
               h3.mb-1 1920
               p.mb-4 The Debut of Thomas Cat se estrena y es famosa por ser la primera obra de dibujos animados en color.
               h3.mb-1 1921
-              p.mb-0 Walt Disney inicia la creación de películas animadas para la cadena de cines Newman en Kansas City.
+              p.mb-0 Walt Disney inicia la creación de películas animadas para la cadena de cines Newman en #[i Kansas City].
             
             .row(titulo="1923")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -249,11 +244,11 @@
             
             .row(titulo="1926 - 1929")
               h3.mb-1 1926
-              p.mb-4 Es realizado el largometraje de siluetas animadas Die Abenteuer des Prinzen Achmed (Las aventuras del príncipe Achmed) del animador alemán Lotte Reiniger.
+              p.mb-4 Es realizado el largometraje de siluetas animadas #[i Die Abenteuer des Prinzen Achmed] (Las aventuras del príncipe Achmed) del animador alemán Lotte Reiniger.
               h3.mb-1 1928
-              p.mb-4 Aparece la primera película de dibujos animados que usa sonido sincronizado, Steamboat Willie protagonizada por Mickey Mouse, insignia de Disney.
+              p.mb-4 Aparece la primera película de dibujos animados que usa sonido sincronizado, #[i Steamboat Willie] protagonizada por Mickey Mouse, insignia de Disney.
               h3.mb-1 1929
-              p.mb-0 Ub Iwerks creó el corto animado Skeleton Dance, uno de los 75 cortos animados de Disney que componen las Silly Symphonies.
+              p.mb-0 Ub Iwerks creó el corto animado #[i Skeleton Dance], uno de los 75 cortos animados de Disney que componen las #[i Silly Symphonies].
 
             .row(titulo="1930")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -261,8 +256,8 @@
                   img(src="@/assets/curso/tema2/img21.jpg", alt="historia imagén 20")
             
               .col-lg-8
-                h3 Betty Boop
-                p.mb-4 Aparece por primera vez en Dizzy Dishes la icónica Betty Boop de Fleischer Studios. Mientras tanto en Francia se estrena el primer largometraje de marionetas animadas, Le roman de Renard de Starevwicz.
+                h3 #[i Betty Boop]
+                p.mb-4 Aparece por primera vez en #[i Dizzy Dishes] la icónica #[i Betty Boop] de Fleischer Studios. Mientras tanto en Francia se estrena el primer largometraje de marionetas animadas, #[i Le roman de Renard de Starevwicz].
             
             .row(titulo="1932 - 1935")
               h3.mb-1 1932
@@ -280,7 +275,7 @@
                   img(src="@/assets/curso/tema2/img22.jpg", alt="historia imagén 21")
             
               .col-lg-8
-                h3 Snow White
+                h3 #[i Snow White]
                 p.mb-4 Es estrenada una de las películas más icónicas de Disney, Blancanieves y los siete enanos que es el primer largometraje animado en Technicolor con uso de sonido sincronizado.
             
             .row(titulo="1939 - 1942")
@@ -289,9 +284,9 @@
               h3.mb-1 1940
               p.mb-4 Disney estrena Pinocho y Fantasía que sorprendentemente reciben una pobre acogida por parte del público. En el mismo año William Hanna y Joseph Barbera crean y estrenan el primer animado de Tom y Jerry.
               h3.mb-1 1941
-              p.mb-4 Wan Laiming y Wan Guchan dirigen en China el largometraje animado Tie Shan Gong Zhu (La princesa del abanico de hierro) mientras en los estudios de Walt Disney se desarrolla una huelga.
+              p.mb-4 Wan Laiming y Wan Guchan dirigen en China el largometraje animado #[i Tie Shan Gong Zhu] (La princesa del abanico de hierro) mientras en los estudios de Walt Disney se desarrolla una huelga.
               h3.mb-1 1942
-              p.mb-0 Se estrena el largometraje Bamby de Disney.
+              p.mb-0 Se estrena el largometraje #[i Bamby] de Disney.
             
             .row(titulo="1944 - 1949")
               h3.mb-1 1944
@@ -299,9 +294,9 @@
               h3.mb-1 1947
               p.mb-4 Tintín debuta en la animación con una versión en marionetas de El cangrejo de las pinzas de oro.
               h3.mb-1 1948
-              p.mb-4 Es creado el largometraje de animación con marionetas Cisaruv Slavik (El ruiseñor del emperador) del cineasta checo Jiri Trnka.
+              p.mb-4 Es creado el largometraje de animación con marionetas #[i Cisaruv Slavik] (El ruiseñor del emperador) del cineasta checo Jiri Trnka.
               h3.mb-1 1949
-              p.mb-0 El coyote y el correcaminos de Chuck Jones aparecen por primera vez en el cortometraje Fast and Furry-ous.
+              p.mb-0 El coyote y el correcaminos de #[i Chuck Jones] aparecen por primera vez en el cortometraje #[i Fast and Furry-ous].
 
             .row(titulo="1950")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -320,20 +315,20 @@
               h3.mb-1 1954
               p.mb-4 A partir de Animal Farm la célebre novela de George Orwell, se anima la película del mismo nombre por parte de los animadores John Halas y Joy Batchelor.
               h3.mb-1 1957
-              p.mb-0 Hace su más famosa aparición Bugs Bunny en el cortometraje de Jones What’s opera, doc?
+              p.mb-0 Hace su más famosa aparición #[i Bugs Bunny] en el cortometraje de #[i Jones What’s opera, doc?]
             
             .row(titulo="1958 - 1961")
               h3.mb-1 1958
-              p.mb-4 Se estrena el primer largometraje animado japonés titulado Shonen Saturobi Sasuke (La leyenda de la serpiente blanca), mientras La Bella durmiente resulta ser un desastre comercial para Disney.
+              p.mb-4 Se estrena el primer largometraje animado japonés titulado #[i Shonen Saturobi Sasuke] (La leyenda de la serpiente blanca), mientras La Bella durmiente resulta ser un desastre comercial para Disney.
               h3.mb-1 1960
-              p.mb-4 Fred Flinstone y Barney Rubble (Pedro Picapiedra y Pablo Marmol) son presentados en la serie animada The Flinstones por William Hanna y Joseph Barbera.
+              p.mb-4 #[i Fred Flinstone y Barney Rubble] (Pedro Picapiedra y Pablo Marmol) son presentados en la serie animada #[i The Flinstones] por William Hanna y Joseph Barbera.
               h3.mb-1 1961
-              p.mb-4 Se produce en China Danaotian Gong (La rebelión del rey Kun Fu Sung).          
+              p.mb-4 Se produce en China #[i Danaotian Gong] (La rebelión del rey Kun Fu Sung).          
             
             .row(titulo="1963 - 1965")
               h3.mb-1 1963
-              p.mb-4 La serie Tetsuwan Atomu (Astro Boy) abre las puertas a muchas otras series de animación japonesa.
-              p.mn-0 El francés Serge Danot crea la serie Le manège enchanté.
+              p.mb-4 La serie #[i Tetsuwan Atomu] (Astro Boy) abre las puertas a muchas otras series de animación japonesa.
+              p.mn-0 El francés Serge Danot crea la serie #[i Le manège enchanté].
               h3.mb-1 1964
               p.mb-4 Se crea la película experimental Cibernetik 5.3 por John Stehura.
               h3.mb-1 1965
@@ -342,10 +337,10 @@
 
             .row(titulo="1966 - 1972")
               h3.mb-1 1966
-              p.mb-4 Muere Walt Disney a la edad de 65 años sin ver finalizado Disneyworld. En la televisión británica aparece Camberwick Green.
+              p.mb-4 Muere Walt Disney a la edad de 65 años sin ver finalizado Disneyworld. En la televisión británica aparece #[i Camberwick Green].
               h3.mb-1 1969
               p.mb-4 Se emite en Japón el primer episodio de la serie Sazae-san que sigue emitiéndose en la actualidad convirtiéndose en la serie de animación más longeva.
-              p.mn-0 En Inglaterra se emite The Clangers de Oliver Postgate y Peter Firmin.
+              p.mn-0 En Inglaterra se emite #[i The Clangers de Oliver Postgate y Peter Firmin].
               h3.mb-1 1972
               p.mb-4 Se funda Atari.
               
@@ -358,12 +353,12 @@
               h3.mb-1 1976
               p.mn-0 Es California EE. UU. es fundada Apple por Steve Jobs, Steve Wozniak y Ronald Wayne.
               h3.mb-1 1977
-              p.mb-4 Ed Emshwiller usa gráficos informáticos en 3D para el cortometraje Sunstone.
+              p.mb-4 Ed Emshwiller usa gráficos informáticos en 3D para el cortometraje #[i Sunstone].
             
             .row(titulo="1982 - 1986")
               h3.mb-1 1982
-              p.mb-4 Tim Burton realiza Vincent utilizando animación #[em stop motion] en Disney.
-              p.mb-4 En Star Treck III: The Wrath of Khan se realiza la primera secuencia digital por parte de ILM.
+              p.mb-4 Tim Burton realiza #[i Vincent] utilizando animación #[em stop motion] en Disney.
+              p.mb-4 En #[i Star Treck III: The Wrath of Khan] se realiza la primera secuencia digital por parte de ILM.
               h3.mb-1 1986
               p.mb-4 Luxo Jr dirigido por John Lasseter se convierte en una importante referencia para la animación digital.
               p.mn-0 Es fundada Pixar.
@@ -371,21 +366,21 @@
             .row(titulo="1988 - 1991")
               h3.mb-1 1988
               p.mb-4 El largometraje ¿Quién engañó a Roger Rabbit? es estrenado haciendo un hibrido entre animación e imagen real.
-              p.mb-4 En Japón es estrenada Akira de Katsuhiro Otomo.
+              p.mb-4 En Japón es estrenada #[i Akira] de Katsuhiro Otomo.
               h3.mb-1 1989
-              p.mb-4 Se crea para la película The Abyss el primer personaje generado totalmente en 3D.
+              p.mb-4 Se crea para la película #[i The Abyss] el primer personaje generado totalmente en 3D.
               p.mn-4 Son lanzados Los Simpsons de Matt Groening.
               h3.mb-1 1991
-              p.mb-0 Es creada por John Kricfalusi la serie Ren y Stimpy, generando una nueva estética.
+              p.mb-0 Es creada por John Kricfalusi la serie #[i Ren y Stimpy], generando una nueva estética.
             
             .row(titulo="1993 - 1995")
               h3.mb-1 1993
-              p.mb-4 Stiven Spielberg hace uso de la animación digital para la realización de Jurassic Park.
+              p.mb-4 Stiven Spielberg hace uso de la animación digital para la realización de #[i Jurassic Park].
               p.mb-4 Es estrenada la película de #[em stop motion] The Nightmare Before Christmas, producida por Tim Burton y dirigida por Henry Selick.
               h3.mb-1 1994
               p.mb-4 Jeffrey Katzenberg cofunda Dreamworks junto a Steven Spielberg y David Geffen.
               h3.mb-1 1995
-              p.mb-0 Es estrenado Toy Story dirigido por John Lasseter convirtiéndose en el primer largometraje realizado completamente en animación digital.
+              p.mb-0 Es estrenado #[i Toy Story] dirigido por John Lasseter convirtiéndose en el primer largometraje realizado completamente en animación digital.
             
             .row(titulo="1998")
               .col-8.col-lg-4.mb-4.mb-md-0
@@ -393,25 +388,25 @@
                   img(src="@/assets/curso/tema2/img24.jpg", alt="historia imagén 23")
             
               .col-lg-8
-                h3 Bug’s Life
-                p.mb-4 Es estrenada a Bug’s Life de pixar y Antz de Dreamworks.
+                h3 #[i Bug’s Life]
+                p.mb-4 Es estrenada a #[i Bug’s Life] de pixar y Antz de Dreamworks.
               
             .row(titulo="1999 - 2001")
               h3.mb-1 1999
-              p.mb-4 Se proyecta la primera película animada en formato IMAX, The Old Man and the Sea de Aleksandr Petrov la cual gana el Óscar a mejor cortometraje animado.
+              p.mb-4 Se proyecta la primera película animada en formato IMAX, #[i The Old Man and the Sea] de Aleksandr Petrov la cual gana el Óscar a mejor cortometraje animado.
               h3.mb-1 2000
-              p.mb-4 Aardman Animations y Dreamworks se asocian para la producción de la película Chicken Run.
+              p.mb-4 Aardman Animations y Dreamworks se asocian para la producción de la película #[i Chicken Run].
               h3.mb-1 2001
               p.mb-4 Se estrena El viaje de Chihiro de Hayao Miyasaki.
 
             .row(titulo="2002 - 2006")
               h3.mb-1 2002
-              p.mb-4 Es utilizada con éxito la técnica de captura de movimiento para dar vida a Gollum en The Lord of the Rings: The Two Towers.
-              p.mb-4 Blue Sky Animation Studios estrena Ice Age.
+              p.mb-4 Es utilizada con éxito la técnica de captura de movimiento para dar vida a #[i Gollum] en #[i The Lord of the Rings: The Two Towers].
+              p.mb-4 Blue Sky Animation Studios estrena #[i Ice Age].
               h3.mb-1 2004
-              p.mb-4 Es estrenada The Incredibles de Pixar dirigida por Brad Bird.
+              p.mb-4 Es estrenada #[i The Incredibles] de Pixar dirigida por Brad Bird.
               h3.mb-1 2005
-              p.mb-4 Se estrena Corpse Bride dirigida por Tim Burton y Wallace y Gromit: The Curse of the Were-Rabbit de Steve Box renovando el interés por la animación en #[em stop motion].
+              p.mb-4 Se estrena #[i Corpse Bride] dirigida por Tim Burton y Wallace y Gromit: #[i The Curse of the Were-Rabbit] de Steve Box renovando el interés por la animación en #[em stop motion].
               h3.mb-1 2006
               p.mb-0 Disney completa la adquisición de Pixar.
 
@@ -422,7 +417,7 @@
             
               .col-lg-8
                 h3 Pixar
-                p.mb-4 Disney/Pixar estrena Ratatouille dirigida por Brad Bird.
+                p.mb-4 Disney/Pixar estrena #[i Ratatouille] dirigida por Brad Bird.
                 p.mb-4 Steve Jobs director de Apple lanza el iPhone revolucionando la telefonía móvil al desarrollar nuevas características para interfaces de usuario dentro las que se encuentra el uso de la animación.
             
             .row(titulo="2008 - 2016")
@@ -432,7 +427,7 @@
             
               .col-lg-8
                 h3 2008
-                p.mb-4 Peter and the Wolf dirigida por Suzie Templeton gana el Óscar a mejor corto animado.
+                p.mb-4 #[i Peter and the Wolf] dirigida por Suzie Templeton gana el Óscar a mejor corto animado.
 
                 h3 2016 - Creadores de “Historia de un oso”
                 p.mb-0 Historia de un oso, cortometraje de animación chileno se convierte en la primera producción latinoamericana en ganar un Óscar.
@@ -473,7 +468,7 @@
             
             .row.justify-content-center
               .col-md-10
-                p.mb-4 Alrededor de los 90 la mayoría de los estudios dejaron de usar los acetatos y empezaron a escanear sus dibujos para pintarlos en la computadora. Hoy día, muchos animadores clásicos no usan el papel y lápiz, sino que dibujan directamente en el ordenador usando tabletas digitales o monitores especiales. 
+                p.mb-4 Alrededor de los años 90 la mayoría de los estudios dejaron de usar los acetatos y empezaron a escanear sus dibujos para pintarlos en la computadora. Hoy día, muchos animadores clásicos no usan el papel y lápiz, sino que dibujan directamente en el ordenador usando tabletas digitales o monitores especiales. 
                 
                 .titulo-sexto.color-acento-botones
                   span Dispositivos especiales para digitalizar dibujos
@@ -482,7 +477,7 @@
             
             .row.justify-content-center
               .col-md-10
-                p.mb-4 Dentro del estilo clásico de la animación, se encuentra también la #[em <i>Rotoscopia</i>], que es una técnica donde el animador usa como referencia un video real, donde se redibuja o ‘#[em rotoscopea]’ el movimiento realista de una persona o animal y se estiliza el dibujo final. El uso de esta técnica brinda mayor realismo y naturalidad a los movimientos de los personajes. 
+                p.mb-4 Dentro del estilo clásico de la animación, se encuentra también la #[i Rotoscopia], que es una técnica donde el animador usa como referencia un video real, donde se redibuja o ‘#[em rotoscopea]’ el movimiento realista de una persona o animal y se estiliza el dibujo final. El uso de esta técnica brinda mayor realismo y naturalidad a los movimientos de los personajes. 
                 
                 .titulo-sexto.color-acento-botones
                   span Dave Fleischer (1914)
@@ -690,7 +685,7 @@
       
       #MapaCollapse04.collapse(data-bs-parent='#MapaGroup01')
         .BG02Full.p-4
-          h3.text-center.text-light.mb-0 Animación pose to pose y #[em straight ahead]
+          h3.text-center.text-light.mb-0 Animación #[i pose to pose] y #[em straight ahead]
         .BG03.p-5
           .row
             .col-7
@@ -725,7 +720,7 @@
             .col-7
               p.mt-5.mb-4 Permite darle una gestualidad al movimiento de la animación con fluidez. Esto permite que un objeto que se va a animar, adquiera carácter. Logrando darle al objeto un tono de velocidad, por ejemplo, puede arrancar lento y a medida que avanza aumenta su velocidad, o al contrario, puede ir corriendo e ir frenando.
               p.mb-4 #[strong Slow in.] Si observamos un auto cuando arranca empieza en 0, pero este va aumentando su velocidad, a esto le llamaríamos #[em Slow in], en el que se encuentra acelerando.
-              p #[strong Slow out.] Este mismo carro ya viene a alta velocidad y empieza a frenar, lo definimos como #[em slow out]. Se puede determinar el tipo de velocidad con el que puede avanzar el personaje. Un timing igual se vuelve aburrido, monótono; en cambio, si este tiene aceleración o desaceleración, mostrará dinamismo, a pesar de que el tiempo de carrera sea el mismo. Esto influye en generar emociones con las acciones.
+              p #[strong Slow out.] Este mismo carro ya viene a alta velocidad y empieza a frenar, lo definimos como #[em slow out]. Se puede determinar el tipo de velocidad con el que puede avanzar el personaje. Un #[i timing] igual se vuelve aburrido, monótono; en cambio, si este tiene aceleración o desaceleración, mostrará dinamismo, a pesar de que el tiempo de carrera sea el mismo. Esto influye en generar emociones con las acciones.
             .col-5
               .titulo-sexto.color-acento-botones
                 h5 Figura 20
@@ -809,7 +804,7 @@
         .BG03.p-5
           .row
             .col-7
-              p.mt-5 Este principio no es crear un personaje bello, sino un personaje con personalidad y debe generar interés. Es importante no agregar detalles que no sean necesarios y generen distracción, cuantas más líneas limpias tenga, se definirá mejor la simplicidad, el magnetismo y su comunicación. Esto no solo sucede con el personaje, también en la escena, debe haber un atractivo en los movimientos, en la composición de los escenarios. cómo conjuga todo al tiempo y crea atracción, despertando una emoción en el espectador.
+              p.mt-5 Este principio no es crear un personaje bello, sino un personaje con personalidad y debe generar interés. Es importante no agregar detalles que no sean necesarios y generen distracción, cuantas más líneas limpias tenga, se definirá mejor la simplicidad, el magnetismo y su comunicación. Esto no solo sucede con el personaje, también en la escena, debe haber un atractivo en los movimientos, en la composición de los escenarios cómo conjuga todo al tiempo y crea atracción, despertando una emoción en el espectador.
             .col-5
               .titulo-sexto.color-acento-botones
                 h5 Figura 25
@@ -857,7 +852,7 @@
         h3.text-center.Color3.bordLineT.pt-5(style="color: #6BBCB1") #[em Jump]
         .row.justify-content-center
           .col-lg-10.mb-4
-            p.mb-0 El salto permite que el personaje se desplace hacia arriba, despegándose del suelo, para poder llegar a otro lado, o caer en el mismo punto de origen. esquivar un enemigo, saltar y destruir un #[em npc].
+            p.mb-0 El salto permite que el personaje se desplace hacia arriba, despegándose del suelo, para poder llegar a otro lado, o caer en el mismo punto de origen al esquivar un enemigo, saltar y destruir un #[em npc].
 
         .titulo-sexto.color-acento-botones
           h5 Figura 29
@@ -885,7 +880,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p Ver el siguiente video de Skeleton Attack Animations Pack para ilustrar mejor el movimiento.
+                p Ver el siguiente video de #[i Skeleton Attack Animations Pack] para ilustrar mejor el movimiento.
         
         h3.text-center.Color3.bordLineT.pt-5(style="color: #6BBCB1") #[em Down]
         .row.justify-content-center
@@ -947,7 +942,7 @@
 
             .tema-1.mb-5(style="background-color: #FAF9F8")
               TabsB.color-acento-botones
-                .py-4.py-md-5.px-4(titulo="Liquido" :icono="require('@/assets/curso/tema1/img04.svg')")          
+                .py-4.py-md-5.px-4(titulo="Líquido" :icono="require('@/assets/curso/tema1/img04.svg')")          
                   figure.mb-0
                     .video                    
                       iframe(width="1280" height="720" src="https://www.youtube.com/embed/hRT6ukR8I98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -977,7 +972,6 @@
           .tarjeta.p-4(titulo="Maleabilidad y Ductilidad")
             h4.mb-4 Maleabilidad y Ductilidad
             p.mb-4 Son propiedades que le permiten a un material sufrir deformaciones plásticas cuando se les aplica una compresión sin llegar a romperse. Gracias a la maleabilidad pueden obtenerse laminas delgadas o gruesas dependiendo del material, mientras que la ductilidad permite obtener alambres o hilos.
-            p.mb-4 <b>Ingresando en el siguiente video encontrarás más información al respecto:</b>
 
             .row.justify-content-center
               .col-lg-10
@@ -993,7 +987,6 @@
           .tarjeta.p-4(titulo="Plasticidad")
             h4.mb-4 Plasticidad
             p.mb-4 Es la capacidad de ciertos materiales de deformarse permanente e irreversiblemente cuando es sometido a tensiones por encima de su límite de elasticidad. Esta característica es útil ya que permite modelar fácilmente un material para cambiar su forma.
-            p.mb-4 <b>A continuación, podrás ampliar este tema a través del siguiente video:</b>
             .row.justify-content-center
               .col-lg-10
                 figure

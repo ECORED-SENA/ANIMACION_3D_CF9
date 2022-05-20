@@ -93,11 +93,11 @@
     p.mb-5 Con <i>blender</i> se puede generar movimientos de cámara de manera sencilla. A continuación, se mencionarán los movimientos de cámara y cómo realizarlos:<br><b>En los siguientes videos se verá cómo llevar los movimientos de cámara y configuraciones:</b>
     .tema-1.mb-5
       TabsB.color-acento-botones
-        .py-4.py-md-5(titulo="Movimientos de camara" :icono="require('@/assets/curso/tema1/img04.svg')")          
+        .py-4.py-md-5(titulo="Movimientos de cámara" :icono="require('@/assets/curso/tema1/img04.svg')")          
           figure.mb-0
             .video            
               iframe(width="1280" height="720" src="https://www.youtube.com/embed/NkAtp1yoM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        .py-4.py-md-5(titulo="<i>Background</i> images <i>camera</i>" :icono="require('@/assets/curso/tema1/img04.svg')")
+        .py-4.py-md-5(titulo="<i>Background images camera</i>" :icono="require('@/assets/curso/tema1/img04.svg')")
           figure.mb-0
             .video            
               iframe(width="1280" height="720" src="https://www.youtube.com/embed/bp0lP9UL4X4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -109,7 +109,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-7
         .tema-1-anexo1
-          a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/movimientosdecamarayconf.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
@@ -138,7 +138,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-7
         .tema-1-anexo1
-          a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/profundidaddeCampo.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
@@ -154,14 +154,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-7
         .tema-1-anexo1
-          a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/tiposdelente.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
               p Para una mejor comprensión del tema, se ofrece el siguiente documento en donde se puede ampliar más sobre el tema:
     
     #t_1_6.titulo-segundo.color
-      h2 1.6  <i>Addon</i> <i>camera</i> <i>rigs</i>
+      h2 1.6 <i>Addon camera rigs</i>
 
     p.mb-4 <i><b>Blender</b></i> dispone de un <i>addon</i>, con el cual se puede generar cámaras con <i>rigg</i>, como si estuviesen montadas en maquinaria, como si fuera en un set de grabación, con este se pueden generar movimientos de cámara y planos de una manera cercana a la realidad. 
     p.mb-4 <b>Al igual que los anteriores procedimientos, a continuación, se podrá observar el video explicativo a este proceso:</b>
@@ -171,7 +171,7 @@
     .row.justify-content-center.align-items-center
       .col-7
         .tema-1-anexo1
-          a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/addonCameraRigs.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Animación de personajes 3D',
     descripcionCurso:
-      'La animación 3D representa de forma tridimensional y con datos geométricos una representación tomada de la realidad. En este componente se trabajará sobre los diferentes procesos involucrados, los cuales cubren el <i>Layouts</i> de la escena, los principios de animación que están involucrados, como la animación corporal, facial, <i>loops</i>, locomoción y puesta en escena.',
+      'La animación 3D representa de forma tridimensional y con datos geométricos una representación tomada de la realidad. En este componente se trabajará sobre los diferentes procesos involucrados, los cuales cubren el <i>layouts</i> de la escena, los principios de animación que están involucrados, como la animación corporal, facial, <i>loops</i>, locomoción y puesta en escena.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -188,7 +188,7 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Animation Arena. (2021). <i>Acting</i> and Animation.',
+      referencia: 'Animation Arena. (2021). <em>Acting and Animation</em>.',
       link: 'http://www.animationarena.com/acting-and-animation.html',
     },
     {
@@ -199,7 +199,7 @@ export default {
     },
     {
       referencia:
-        'FLOOBYNOOBY. (2021). James Baxter - Notes on <i>Acting</i> for Animation.',
+        'FLOOBYNOOBY. (2021). James Baxter - <em>Notes on Acting for Animation</em>.',
       link:
         'https://floobynooby.blogspot.com/2012/04/james-baxter-notes-on-acting-for.html?m=1',
     },
@@ -208,7 +208,7 @@ export default {
     {
       termino: '<i>Addon</i>',
       significado:
-        'Programa que se puede instalar en <i>Blender</i> para facilitar el desarrollo de algún proceso complejo en el software.',
+        'Programa que se puede instalar en <i>Blender</i> para facilitar el desarrollo de algún proceso complejo en el <em>software</em>.',
     },
     {
       termino: 'Emociones',
@@ -228,7 +228,7 @@ export default {
     {
       termino: '<i>Layout</i>',
       significado:
-        'Etapa de la animación 3D en la cual se posicionan los elementos en el escenario y se posiciona la escena integrando todo lo que va en ella de acuerdo al storyboard.',
+        'Etapa de la animación 3D en la cual se posicionan los elementos en el escenario y se posiciona la escena integrando todo lo que va en ella de acuerdo al <em>storyboard</em>.',
     },
     {
       termino: 'Riggeado',
@@ -238,7 +238,7 @@ export default {
     {
       termino: 'Renderizar',
       significado:
-        'Es el proceso en el que un elemento que se encuentra en el mundo 3D, sea procesado en una imagen o un video. para ser visualizado fuera del software.',
+        'Es el proceso en el que un elemento que se encuentra en el mundo 3D, sea procesado en una imagen o un video. para ser visualizado fuera del <em>software</em>.',
     },
     {
       termino: 'Sincronización',
@@ -249,7 +249,7 @@ export default {
   complementario: [
     {
       texto:
-        'ESCARDO | Club de Animación 3D. (2014). Tutorial de Animacion 3D: Brazos IK FK en Personajes / Rigs en Maya, <i>Blender</i>, 3DsMax, C4D.',
+        'ESCARDO | Club de Animación 3D. (2014). Tutorial de Animacion 3D: Brazos IK FK en Personajes / <em>Rigs</em> en Maya, <i>Blender</i>, 3DsMax, C4D.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=oEHBqiq97jA',
     },
@@ -261,7 +261,7 @@ export default {
     },
     {
       texto:
-        'Osipa, J. (2010). Stop staring: facial modeling and animation done right.',
+        'Osipa, J. (2010). <em>Stop staring: facial modeling and animation done right</em>.',
       tipo: 'Libro - Biblioteca SENA',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000062162',
